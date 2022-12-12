@@ -1,0 +1,37 @@
+{
+  "username": "Imamgdrive",
+  "album": [
+    "CompleteGuitarChordChart"
+  ],
+  "init_jumlah_photo": 100,
+  "pub_id": "pub-1094248810649911",
+  "app_id": "ca-app-pub-1094248810649911~5814536714",
+  "admob_banner_id": "ca-app-pub-1094248810649911/4016910325",
+  "admob_interstitial_id": "ca-app-pub-1094248810649911/2541506119",
+  "admob_native_id": "ca-app-pub-1094248810649911/3150551213",
+  "admob_rewared_id": "ca-app-pub-1094248810649911/3846848929",
+
+  "admob_hpk_1": "crypto",
+  "admob_hpk_2": "fashion",
+  "admob_hpk_3": "plastic surgery",
+  "admob_hpk_4": "mobile",
+  "admob_hpk_5": "insurance",
+
+  "fan_banner_id": "xxxxx",
+  "fan_interstitial_id": "xxxx",
+  "fan_native_id": "xxx",
+
+  "mopub_banner_id": "xxxxx",
+  "mopub_interstitial_id": "xxxx",
+  "mopub_native_id": "xxxxx",
+
+  "interstitial_inverval": 3,
+  "rewarded_photo_inverval": 3,
+
+  "primary_ads": "ADMOB",
+  "list_ads": [
+    "ADMOB",
+    "MOPUB",
+    "FAN"
+  ]
+}
