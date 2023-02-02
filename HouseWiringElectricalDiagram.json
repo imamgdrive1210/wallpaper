@@ -4,12 +4,12 @@
     "HouseWiringElectricalDiagram"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1094248810649911",
-  "app_id": "ca-app-pub-1094248810649911~9705680265",
-  "admob_banner_id": "ca-app-pub-1094248810649911/6838514780",
-  "admob_interstitial_id": "ca-app-pub-1094248810649911/7650115143",
-  "admob_native_id": "ca-app-pub-1094248810649911/9601738483",
-  "admob_rewared_id": "ca-app-pub-1094248810649911/4944060755",
+  "pub_id": "pub-3940256099942544",
+  "app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner_id": "ca-app-pub-9751399769703775/9141627305",
+  "admob_interstitial_id": "ca-app-pub-9751399769703775/6515463964",
+  "admob_native_id": "ca-app-pub-9751399769703775/6563565429",
+  "admob_rewared_id": "ca-app-pub-9751399769703775/4944060755",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -26,7 +26,7 @@
   "mopub_native_id": "xxxxx",
 
   "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
+  "rewarded_photo_inverval": 300,
 
   "primary_ads": "ADMOB",
   "list_ads": [
