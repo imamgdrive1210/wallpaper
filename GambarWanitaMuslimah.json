@@ -4,12 +4,12 @@
     "GambarWanitaMuslimah"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1094248810649911",
-  "app_id": "ca-app-pub-1094248810649911~7627205084",
-  "admob_banner_id": "ca-app-pub-1094248810649911/5001041747",
-  "admob_interstitial_id": "ca-app-pub-1094248810649911/4809470052",
-  "admob_native_id": "ca-app-pub-1094248810649911/1991735022",
-  "admob_rewared_id": "ca-app-pub-1094248810649911/7244061703",
+  "pub_id": "pub-3940256099942544",
+  "app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner_id": "ca-app-pub-9751399769703775/1893692678",
+  "admob_interstitial_id": "ca-app-pub-9751399769703775/7191069620",
+  "admob_native_id": "ca-app-pub-9751399769703775/7904567254",
+  "admob_rewared_id": "ca-app-pub-9751399769703775/7244061703",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -26,7 +26,7 @@
   "mopub_native_id": "xxxxx",
 
   "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
+  "rewarded_photo_inverval": 300,
 
   "primary_ads": "ADMOB",
   "list_ads": [
