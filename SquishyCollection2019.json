@@ -4,12 +4,12 @@
     "SquishyCollection1"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1094248810649911",
-  "app_id": "ca-app-pub-1094248810649911~1648502597",
-  "admob_banner_id": "ca-app-pub-1094248810649911/5396175915",
-  "admob_interstitial_id": "ca-app-pub-1094248810649911/8969461557",
-  "admob_native_id": "ca-app-pub-1094248810649911/7656379885",
-  "admob_rewared_id": "ca-app-pub-1094248810649911/5204604229",
+  "pub_id": "pub-3940256099942544",
+  "app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner_id": "ca-app-pub-9751399769703775/5613445838",
+  "admob_interstitial_id": "ca-app-pub-9751399769703775/6244001226",
+  "admob_native_id": "ca-app-pub-9751399769703775/2304756218",
+  "admob_rewared_id": "ca-app-pub-9751399769703775/5204604229",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -26,7 +26,7 @@
   "mopub_native_id": "xxxxx",
 
   "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
+  "rewarded_photo_inverval": 300,
 
   "primary_ads": "ADMOB",
   "list_ads": [
