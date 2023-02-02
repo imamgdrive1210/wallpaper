@@ -4,12 +4,12 @@
     "ValentineWallpaperHD"
  ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1094248810649911",
-  "app_id": "ca-app-pub-1094248810649911~5713291561",
-  "admob_banner_id": "ca-app-pub-1094248810649911/3194939438",
-  "admob_interstitial_id": "ca-app-pub-1094248810649911/7545247988",
-  "admob_native_id": "ca-app-pub-1094248810649911/6232166319",
-  "admob_rewared_id": "ca-app-pub-1094248810649911/8255694421",
+  "pub_id": "pub-3940256099942544",
+  "app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner_id": "ca-app-pub-9751399769703775/8650672718",
+  "admob_interstitial_id": "ca-app-pub-9751399769703775/2513458015",
+  "admob_native_id": "ca-app-pub-9751399769703775/6024509379",
+  "admob_rewared_id": "ca-app-pub-9751399769703775/7574213005",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -26,7 +26,7 @@
   "mopub_native_id": "xxxxx",
 
   "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
+  "rewarded_photo_inverval": 300,
 
   "primary_ads": "ADMOB",
   "list_ads": [
