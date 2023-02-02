@@ -4,12 +4,12 @@
     "FaithWallpapersandBackgrounds"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1094248810649911",
-  "app_id": "ca-app-pub-1094248810649911~7655125249",
-  "admob_banner_id": "ca-app-pub-1094248810649911/3715880237",
-  "admob_interstitial_id": "ca-app-pub-1094248810649911/6150471885",
-  "admob_native_id": "ca-app-pub-1094248810649911/3332736853",
-  "admob_rewared_id": "ca-app-pub-1094248810649911/9898145207",
+  "pub_id": "pub-3940256099942544",
+  "app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner_id": "ca-app-pub-9751399769703775/5585525677",
+  "admob_interstitial_id": "ca-app-pub-9751399769703775/2597783142",
+  "admob_native_id": "ca-app-pub-9751399769703775/6345456463",
+  "admob_rewared_id": "ca-app-pub-9751399769703775/9898145207",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -26,7 +26,7 @@
   "mopub_native_id": "xxxxx",
 
   "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
+  "rewarded_photo_inverval": 300,
 
   "primary_ads": "ADMOB",
   "list_ads": [
