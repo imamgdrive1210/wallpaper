@@ -4,12 +4,12 @@
     "PencilDrawingPerspective"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1094248810649911",
-  "app_id": "ca-app-pub-1094248810649911~7099698225",
-  "admob_banner_id": "ca-app-pub-1094248810649911/6096278758",
-  "admob_interstitial_id": "ca-app-pub-1094248810649911/3470115418",
-  "admob_native_id": "ca-app-pub-1094248810649911/3459588695",
-  "admob_rewared_id": "ca-app-pub-1094248810649911/2146507023",
+  "pub_id": "pub-3940256099942544",
+  "app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner_id": "ca-app-pub-9751399769703775/7247474596",
+  "admob_interstitial_id": "ca-app-pub-9751399769703775/5934392929",
+  "admob_native_id": "ca-app-pub-9751399769703775/9434089580",
+  "admob_rewared_id": "ca-app-pub-9751399769703775/8121007911",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -26,7 +26,7 @@
   "mopub_native_id": "xxxxx",
 
   "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
+  "rewarded_photo_inverval": 300,
 
   "primary_ads": "ADMOB",
   "list_ads": [
