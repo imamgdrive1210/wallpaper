@@ -4,12 +4,12 @@
     "OwlWallpapers"
  ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1094248810649911",
-  "app_id": "ca-app-pub-1094248810649911~2787196583",
-  "admob_banner_id": "ca-app-pub-1094248810649911/7629008460",
-  "admob_interstitial_id": "ca-app-pub-1094248810649911/3153155954",
-  "admob_native_id": "ca-app-pub-1094248810649911/4274665937",
-  "admob_rewared_id": "ca-app-pub-1094248810649911/7847951579",
+  "pub_id": "pub-3940256099942544",
+  "app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner_id": "ca-app-pub-9751399769703775/7630053328",
+  "admob_interstitial_id": "ca-app-pub-9751399769703775/6157754203",
+  "admob_native_id": "ca-app-pub-9751399769703775/7279264182",
+  "admob_rewared_id": "ca-app-pub-9751399769703775/7847951579",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -26,7 +26,7 @@
   "mopub_native_id": "xxxxx",
 
   "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
+  "rewarded_photo_inverval": 300,
 
   "primary_ads": "ADMOB",
   "list_ads": [
