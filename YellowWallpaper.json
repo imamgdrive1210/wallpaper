@@ -4,12 +4,12 @@
     "YellowWallpaper"
  ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1094248810649911",
-  "app_id": "ca-app-pub-1094248810649911~8676945379",
-  "admob_banner_id": "ca-app-pub-1094248810649911/8722598286",
-  "admob_interstitial_id": "ca-app-pub-1094248810649911/2111537024",
-  "admob_native_id": "ca-app-pub-1094248810649911/9844108260",
-  "admob_rewared_id": "ca-app-pub-1094248810649911/7736819679",
+  "pub_id": "pub-3940256099942544",
+  "app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner_id": "ca-app-pub-9751399769703775/8340499768",
+  "admob_interstitial_id": "ca-app-pub-9751399769703775/5714336424",
+  "admob_native_id": "ca-app-pub-9751399769703775/7664894103",
+  "admob_rewared_id": "ca-app-pub-9751399769703775/7834330785",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -26,7 +26,7 @@
   "mopub_native_id": "xxxxx",
 
   "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
+  "rewarded_photo_inverval": 300,
 
   "primary_ads": "ADMOB",
   "list_ads": [
