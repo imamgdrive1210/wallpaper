@@ -4,12 +4,12 @@
     "ModernCeilingDesign"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1094248810649911",
-  "app_id": "ca-app-pub-1094248810649911~7646493139",
-  "admob_banner_id": "ca-app-pub-1094248810649911/6281440570",
-  "admob_interstitial_id": "ca-app-pub-1094248810649911/1132808250",
-  "admob_native_id": "ca-app-pub-1094248810649911/7506644913",
-  "admob_rewared_id": "ca-app-pub-1094248810649911/6193563240",
+  "pub_id": "pub-3940256099942544",
+  "app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner_id": "ca-app-pub-9751399769703775/2293966162",
+  "admob_interstitial_id": "ca-app-pub-9751399769703775/1965844864",
+  "admob_native_id": "ca-app-pub-9751399769703775/8667802823",
+  "admob_rewared_id": "ca-app-pub-9751399769703775/6193563240",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -26,7 +26,7 @@
   "mopub_native_id": "xxxxx",
 
   "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
+  "rewarded_photo_inverval": 300,
 
   "primary_ads": "ADMOB",
   "list_ads": [
