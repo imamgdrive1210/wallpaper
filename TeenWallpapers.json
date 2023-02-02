@@ -4,12 +4,12 @@
     "TeenWallpapers"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1094248810649911",
-  "app_id": "ca-app-pub-1094248810649911~1475099397",
-  "admob_banner_id": "ca-app-pub-1094248810649911/7848936052",
-  "admob_interstitial_id": "ca-app-pub-1094248810649911/6535854385",
-  "admob_native_id": "ca-app-pub-1094248810649911/9845340160",
-  "admob_rewared_id": "ca-app-pub-1094248810649911/5222772715",
+  "pub_id": "pub-3940256099942544",
+  "app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner_id": "ca-app-pub-9751399769703775/4464015691",
+  "admob_interstitial_id": "ca-app-pub-9751399769703775/6571304286",
+  "admob_native_id": "ca-app-pub-9751399769703775/3945140942",
+  "admob_rewared_id": "ca-app-pub-9751399769703775/5222772715",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -26,7 +26,7 @@
   "mopub_native_id": "xxxxx",
 
   "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
+  "rewarded_photo_inverval": 300,
 
   "primary_ads": "ADMOB",
   "list_ads": [
