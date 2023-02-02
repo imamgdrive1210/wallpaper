@@ -4,12 +4,12 @@
     "GirlyWallaperCute"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1094248810649911",
-  "app_id": "ca-app-pub-1094248810649911~6869243919",
-  "admob_banner_id": "ca-app-pub-1094248810649911/4454246832",
-  "admob_interstitial_id": "ca-app-pub-1094248810649911/6888838489",
-  "admob_native_id": "ca-app-pub-1094248810649911/2949593472",
-  "admob_rewared_id": "ca-app-pub-1094248810649911/5575756814",
+  "pub_id": "pub-3940256099942544",
+  "app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner_id": "ca-app-pub-9751399769703775/9907914068",
+  "admob_interstitial_id": "ca-app-pub-9751399769703775/4948049666",
+  "admob_native_id": "ca-app-pub-9751399769703775/4437478421",
+  "admob_rewared_id": "ca-app-pub-9751399769703775/5575756814",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -26,7 +26,7 @@
   "mopub_native_id": "xxxxx",
 
   "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
+  "rewarded_photo_inverval": 300,
 
   "primary_ads": "ADMOB",
   "list_ads": [
