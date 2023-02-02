@@ -4,12 +4,12 @@
     "AfricanCoupleDresses"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1094248810649911",
-  "app_id": "ca-app-pub-1094248810649911~7319190076",
-  "admob_banner_id": "ca-app-pub-1094248810649911/2090666701",
-  "admob_interstitial_id": "ca-app-pub-1094248810649911/9777585034",
-  "admob_native_id": "ca-app-pub-1094248810649911/3874521661",
-  "admob_rewared_id": "ca-app-pub-1094248810649911/1551610655",
+  "pub_id": "pub-9751399769703775",
+  "app_id": "ca-app-pub-9751399769703775~7319190076",
+  "admob_banner_id": "ca-app-pub-9751399769703775/1995147918",
+  "admob_interstitial_id": "ca-app-pub-9751399769703775/4181762905",
+  "admob_native_id": "ca-app-pub-9751399769703775/7055902900",
+  "admob_rewared_id": "ca-app-pub-9751399769703775/1619743398",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -17,21 +17,21 @@
   "admob_hpk_4": "mobile",
   "admob_hpk_5": "insurance",
 
-  "fan_banner_id": "xxxxx",
-  "fan_interstitial_id": "xxxx",
+  "fan_banner_id": "1309884039588471_1322616874981854",
+  "fan_interstitial_id": "1309884039588471_1322617181648490",
   "fan_native_id": "xxx",
 
   "mopub_banner_id": "xxxxx",
   "mopub_interstitial_id": "xxxx",
-  "mopub_native_id": "xxxxx",
+  "mopub_native_id": "1309884039588471_1322617278315147",
 
   "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
+  "rewarded_photo_inverval": 1000,
 
   "primary_ads": "ADMOB",
   "list_ads": [
     "ADMOB",
-    "MOPUB",
-    "FAN"
+    "FAN",
+    "MOPUB"
   ]
 }
