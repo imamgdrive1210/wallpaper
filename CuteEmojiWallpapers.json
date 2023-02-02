@@ -4,12 +4,12 @@
     "CuteEmojiWallpapers"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1094248810649911",
-  "app_id": "ca-app-pub-1094248810649911~8862634823",
-  "admob_banner_id": "ca-app-pub-1094248810649911/6240340914",
-  "admob_interstitial_id": "ca-app-pub-1094248810649911/6236471480",
-  "admob_native_id": "ca-app-pub-1094248810649911/2105654788",
-  "admob_rewared_id": "ca-app-pub-1094248810649911/7357981466",
+  "pub_id": "pub-3940256099942544",
+  "app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner_id": "ca-app-pub-9751399769703775/3015202650",
+  "admob_interstitial_id": "ca-app-pub-9751399769703775/1702120984",
+  "admob_native_id": "ca-app-pub-9751399769703775/9072494482",
+  "admob_rewared_id": "ca-app-pub-9751399769703775/7357981466",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -26,7 +26,7 @@
   "mopub_native_id": "xxxxx",
 
   "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
+  "rewarded_photo_inverval": 300,
 
   "primary_ads": "ADMOB",
   "list_ads": [
