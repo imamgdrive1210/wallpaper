@@ -4,11 +4,11 @@
     "CuteCoupleWallpapers"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1094248810649911",
-  "app_id": "ca-app-pub-1094248810649911~3446220879",
-  "admob_banner_id": "ca-app-pub-1094248810649911/2133139204",
-  "admob_interstitial_id": "ca-app-pub-1094248810649911/6784445055",
-  "admob_native_id": "ca-app-pub-1094248810649911/4567730858",
+  "pub_id": "pub-3940256099942544",
+  "app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner_id": "ca-app-pub-9751399769703775/4265523381",
+  "admob_interstitial_id": "ca-app-pub-9751399769703775/9326278379",
+  "admob_native_id": "ca-app-pub-9751399769703775/8013196702",
   "admob_rewared_id": "ca-app-pub-1094248810649911/6890641869",
 
   "admob_hpk_1": "crypto",
@@ -26,7 +26,7 @@
   "mopub_native_id": "xxxxx",
 
   "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
+  "rewarded_photo_inverval": 300,
 
   "primary_ads": "ADMOB",
   "list_ads": [
