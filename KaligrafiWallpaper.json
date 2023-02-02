@@ -4,12 +4,12 @@
     "KaligrafiWallpaper"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1094248810649911",
-  "app_id": "ca-app-pub-1094248810649911~8119963050",
-  "admob_banner_id": "ca-app-pub-1094248810649911/2731905006",
-  "admob_interstitial_id": "ca-app-pub-1094248810649911/9105741663",
-  "admob_native_id": "ca-app-pub-1094248810649911/9241473036",
-  "admob_rewared_id": "ca-app-pub-1094248810649911/2867636378",
+  "pub_id": "pub-3940256099942544",
+  "app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner_id": "ca-app-pub-9751399769703775/4164632797",
+  "admob_interstitial_id": "ca-app-pub-9751399769703775/6672194879",
+  "admob_native_id": "ca-app-pub-9751399769703775/7912306116",
+  "admob_rewared_id": "ca-app-pub-9751399769703775/2867636378",
 
   "admob_hpk_1": "crypto",
   "admob_hpk_2": "fashion",
@@ -26,7 +26,7 @@
   "mopub_native_id": "xxxxx",
 
   "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
+  "rewarded_photo_inverval": 300,
 
   "primary_ads": "ADMOB",
   "list_ads": [
