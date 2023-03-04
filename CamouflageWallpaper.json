@@ -4,11 +4,11 @@
     "CamouflageWallpaper"
   ],
   "init_jumlah_photo": 100,
-  "pub_id": "pub-1094248810649911",
-  "app_id": "ca-app-pub-1094248810649911~2404053201",
-  "admob_banner_id": "ca-app-pub-9751399769703775/9800102858",
-  "admob_interstitial_id": "ca-app-pub-9751399769703775/8487021189",
-  "admob_native_id": "ca-app-pub-9751399769703775/9681501593",
+  "pub_id": "212902287958973",
+  "app_id": "212902287958973",
+  "admob_banner_id": "212902287958973_212902667958935",
+  "admob_interstitial_id": "212902287958973_212902717958930",
+  "admob_native_id": "212902287958973_212902764625592",
   "admob_rewared_id": "ca-app-pub-9751399769703775/9882215832",
 
   "admob_hpk_1": "crypto",
@@ -28,7 +28,7 @@
   "interstitial_inverval": 3,
   "rewarded_photo_inverval": 300,
 
-  "primary_ads": "ADMOB",
+  "primary_ads": "FAN",
   "list_ads": [
     "ADMOB",
     "MOPUB",
