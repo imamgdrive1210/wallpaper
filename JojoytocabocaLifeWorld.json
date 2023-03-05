@@ -1,0 +1,108 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+      "open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+      "main_ads_rewards": "ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_natives": "",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 2,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "2"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Jojoy Toca Boca",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png"
+    }
+  ],
+  "Wallpaper": [
+   {
+      "id": "714242822171467322",
+      "name_category": "Jojoy Toca Boca",
+      "wallpaper_name": "Cute Emoji Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Emoji",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/37/4e/5d/374e5d0f2b8d3dc224b066210394c703.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Jojoy Toca Boca",
+      "wallpaper_name": "Cute Emoji Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Emoji",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/de/c7/91/dec79155e44c332ab9967ed32469154d.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Jojoy Toca Boca",
+      "title": "Why Download Jojoy APK",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. All mods are safe and ad-free ",
+      "link": "<p>Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. All mods are safe and ad-free. Download 100% working mods with Jojoy App from now on!! Also, Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. All mods are safe and ad-free. Download 100% working mods with Jojoy App from now on!!</p>.\n <p>Jojoy has already gained the love of millions of users in just one year of its establishment. How did Jojoy achieve such great success in just one year, and has been spontaneously recommended by many KOLs. Because Jojoy is an application store similar to Google Play, Google Play has strict requirements and restrictions on various apps, so many interesting apps are rejected by Google Play.</p> \n<p>Then Jojoy gathered a lot of Mod APP lover friends. With the concerted efforts of everyone, Jojoy has been successfully developed. Jojoy.io is a collection of Mod APPs that we think are valuable and recommend them to everyone.</p> \n<p>A large number of games and tool mod apps are collected in the Jojoy App. At present, more than 100,000 apps have been included, especially for gamers. The game mods in Jojoy have additional functions, because some game apps require payment from downloading to the purchase of props and gold coins, and now Jojoy solves this problem Troubled, Jojoy's game has unlimited gold coins, skins, game props, etc., which greatly improves the game experience. And Jojoy also provides an app review function, so you can interact with other players in jojoy, find your favorite games, and leave reviews for good games to recommend to more users.</p>\n<p>Players often encounter this situation, where many games are far below your expectations. You may even regret downloading these games. So what kind of games are really fun to play? jojoy finds high-quality games based on editorial and other players' ratings. And Jojoy recommends you the following popular games, including Jojoy stumble guys, Toca Life World, Among Us... and we offer free mod APK downloads for the latest versions of each game. All popular games are in Jojoy, come and experience it!</p>\n<p>With thousands of games released every day, how do you quickly find popular games or the latest mods? Jojoy will update the list of popular games every day, so you can easily find the latest games that are hot all over the world. The following are the latest 2022 popular game versions on Jojoy. Come and see which games everyone is experiencing!</p>"
+    },
+    {
+      "id": 2,
+      "name_category": "Jojoy Toca Boca",
+      "title": "What is Jojoy?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "Jojoy is an Android Mod App Store. You can get the latest popular 100% working games and tools mods for Android in Jojoy.",
+      "link": "Jojoy is an Android Mod App Store. You can get the latest popular 100% working games and tools mods for Android in Jojoy."
+    },
+    {
+      "id": 3,
+      "name_category": "Jojoy Toca Boca",
+      "title": "Jojoy Provides Multiple Categories",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. ",
+      "link": "Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. All mods are safe and ad-free. Download 100% working mods with Jojoy App from now on!! Also, Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. All mods are safe and ad-free. Download 100% working mods with Jojoy App from now on!! \n In order to achieve the fastest update of Jojoy's mod apk, Jojoy's apk is manually uploaded by the users, so it can ensure that it is 100% available, and there is no need to worry about any advertisements and viruses."
+    },
+    {
+      "id": 4,
+      "name_category": "Jojoy Toca Boca",
+      "title": "Download Paid Apps for Free",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "Jojoy is currently the largest mod apk download center",
+      "link": "Jojoy is currently the largest mod apk download center, it can guarantee that you can download any mod apk you need for free, whether it is a game or a tool, it can be easily obtained in Jojoy.\n Many mod apk download centers can't meet users' download needs. The mod apk downloaded from their sites often contains a lot of advertisements and even viruses, which will seriously affect your mobile phone. To download the safest mod APK, come to Jojoy!"
+    },
+    {
+      "id": 5,
+      "name_category": "Jojoy Toca Boca",
+      "title": "Quick access to the latest version of the mod:",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "If you are already a mod veteran,",
+      "link": "If you are already a mod veteran, every time your mod app is updated, you can't find a place to download the latest mod, then jojoy can help you. Jojoy can update the latest mod at hourly level. So if you want to know if your mod is the latest version, or if you want to download the latest version of the mod, you can come to Jojoy, which has the most comprehensive and safe mod app. All mods on Jojoy are up to date in 2023 and work 100%."
+    },
+    {
+      "id": 6,
+      "name_category": "Jojoy Toca Boca",
+      "title": "High-speed download",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "At present, there are many mod download tools on the market",
+      "link": "At present, there are many mod download tools on the market, but because of their software bandwidth problems, the app download is very slow, and many apps are above 50M, so if you want to quickly download the latest mod app, Jojoy is the first choice. Many of Jojoy's initiators are all senior Android engineers. They have a better understanding of the structure of APP, so Jojoy can provide high-quality download services. Use Jojoy to experience the high-speed download of the app!"
+    }
+  ]
+}
