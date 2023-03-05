@@ -32,10 +32,29 @@
   "Categories": [
     {
       "name_category": "Jojoy Toca Boca",
-      "wallpaper_url": "https://i.pinimg.com/564x/1a/79/25/1a7925a3ec36263446ff37d9ae44fb26.jpg"
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png"
     }
   ],
-  "Wallpaper": [],
+  "Wallpaper": [
+   {
+      "id": "714242822171467322",
+      "name_category": "Jojoy Toca Boca",
+      "wallpaper_name": "Cute Emoji Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Emoji",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/37/4e/5d/374e5d0f2b8d3dc224b066210394c703.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Jojoy Toca Boca",
+      "wallpaper_name": "Cute Emoji Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Emoji",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/de/c7/91/dec79155e44c332ab9967ed32469154d.jpg"
+    }
+  ],
   "Guide": [
     {
       "id": 1,
