@@ -1,37 +1,116 @@
 {
-  "username": "Imamgdrive",
-  "album": [
-    "AmericanFootballWallpapers"
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-2938946993127964/5050485810",
+      "main_ads_intertitial": "ca-app-pub-2938946993127964/6499298850",
+      "main_ads_natives": "ca-app-pub-2938946993127964/5186217187",
+      "open_ads_admob": "ca-app-pub-2938946993127964/2504229436",
+      "main_ads_rewards": "ca-app-pub-2938946993127964/5900533053",
+      "backup_ads_natives": "",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "",
+      "backup_ads_intertitial": "",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 2,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "2"
+    }
   ],
-  "init_jumlah_photo": 100,
-  "pub_id": "pub-1094248810649911",
-  "app_id": "ca-app-pub-9751399769703775~8215558441",
-  "admob_banner_id": "ca-app-pub-9751399769703775/8587911778",
-  "admob_interstitial_id": "ca-app-pub-9751399769703775/4648666762",
-  "admob_native_id": "ca-app-pub-9751399769703775/9167060926",
-  "admob_rewared_id": "ca-app-pub-9751399769703775/1394772605",
-
-  "admob_hpk_1": "crypto",
-  "admob_hpk_2": "fashion",
-  "admob_hpk_3": "plastic surgery",
-  "admob_hpk_4": "mobile",
-  "admob_hpk_5": "insurance",
-
-  "fan_banner_id": "xxxxx",
-  "fan_interstitial_id": "xxxx",
-  "fan_native_id": "xxx",
-
-  "mopub_banner_id": "xxxxx",
-  "mopub_interstitial_id": "xxxx",
-  "mopub_native_id": "xxxxx",
-
-  "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 1000,
-
-  "primary_ads": "ADMOB",
-  "list_ads": [
-    "ADMOB",
-    "MOPUB",
-    "FAN"
+  "Categories": [
+    {
+      "name_category": "Jojoy Toca Boca",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Jojoy Toca Boca",
+      "wallpaper_name": "Cute Emoji Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Emoji",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/37/4e/5d/374e5d0f2b8d3dc224b066210394c703.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Jojoy Toca Boca",
+      "wallpaper_name": "Cute Emoji Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Emoji",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/de/c7/91/dec79155e44c332ab9967ed32469154d.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Jojoy Toca Boca",
+      "title": "Why Download Jojoy APK",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. All mods are safe and ad-free ",
+      "link": "<p>Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. All mods are safe and ad-free. Download 100% working mods with Jojoy App from now on!! Also, Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. All mods are safe and ad-free. Download 100% working mods with Jojoy App from now on!!</p>.\n <p>Jojoy has already gained the love of millions of users in just one year of its establishment. How did Jojoy achieve such great success in just one year, and has been spontaneously recommended by many KOLs. Because Jojoy is an application store similar to Google Play, Google Play has strict requirements and restrictions on various apps, so many interesting apps are rejected by Google Play.</p> \n<p>Then Jojoy gathered a lot of Mod APP lover friends. With the concerted efforts of everyone, Jojoy has been successfully developed. Jojoy.io is a collection of Mod APPs that we think are valuable and recommend them to everyone.</p> \n<p>A large number of games and tool mod apps are collected in the Jojoy App. At present, more than 100,000 apps have been included, especially for gamers. The game mods in Jojoy have additional functions, because some game apps require payment from downloading to the purchase of props and gold coins, and now Jojoy solves this problem Troubled, Jojoy's game has unlimited gold coins, skins, game props, etc., which greatly improves the game experience. And Jojoy also provides an app review function, so you can interact with other players in jojoy, find your favorite games, and leave reviews for good games to recommend to more users.</p>\n<p>Players often encounter this situation, where many games are far below your expectations. You may even regret downloading these games. So what kind of games are really fun to play? jojoy finds high-quality games based on editorial and other players' ratings. And Jojoy recommends you the following popular games, including Jojoy stumble guys, Toca Life World, Among Us... and we offer free mod APK downloads for the latest versions of each game. All popular games are in Jojoy, come and experience it!</p>\n<p>With thousands of games released every day, how do you quickly find popular games or the latest mods? Jojoy will update the list of popular games every day, so you can easily find the latest games that are hot all over the world. The following are the latest 2022 popular game versions on Jojoy. Come and see which games everyone is experiencing!</p>"
+    },
+    {
+      "id": 2,
+      "name_category": "Jojoy Toca Boca",
+      "title": "What is Jojoy?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "Jojoy is an Android Mod App Store. You can get the latest popular 100% working games and tools mods for Android in Jojoy.",
+      "link": "Jojoy is an Android Mod App Store. You can get the latest popular 100% working games and tools mods for Android in Jojoy."
+    },
+    {
+      "id": 3,
+      "name_category": "Jojoy Toca Boca",
+      "title": "Jojoy Provides Multiple Categories",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. ",
+      "link": "Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. All mods are safe and ad-free. Download 100% working mods with Jojoy App from now on!! Also, Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. All mods are safe and ad-free. Download 100% working mods with Jojoy App from now on!! \n In order to achieve the fastest update of Jojoy's mod apk, Jojoy's apk is manually uploaded by the users, so it can ensure that it is 100% available, and there is no need to worry about any advertisements and viruses."
+    },
+    {
+      "id": 4,
+      "name_category": "Jojoy Toca Boca",
+      "title": "Download Paid Apps for Free",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "Jojoy is currently the largest mod apk download center",
+      "link": "Jojoy is currently the largest mod apk download center, it can guarantee that you can download any mod apk you need for free, whether it is a game or a tool, it can be easily obtained in Jojoy.\n Many mod apk download centers can't meet users' download needs. The mod apk downloaded from their sites often contains a lot of advertisements and even viruses, which will seriously affect your mobile phone. To download the safest mod APK, come to Jojoy!"
+    },
+    {
+      "id": 5,
+      "name_category": "Jojoy Toca Boca",
+      "title": "Quick access to the latest version of the mod:",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "If you are already a mod veteran,",
+      "link": "If you are already a mod veteran, every time your mod app is updated, you can't find a place to download the latest mod, then jojoy can help you. Jojoy can update the latest mod at hourly level. So if you want to know if your mod is the latest version, or if you want to download the latest version of the mod, you can come to Jojoy, which has the most comprehensive and safe mod app. All mods on Jojoy are up to date in 2023 and work 100%."
+    },
+    {
+      "id": 6,
+      "name_category": "Jojoy Toca Boca",
+      "title": "High-speed download",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "At present, there are many mod download tools on the market",
+      "link": "At present, there are many mod download tools on the market, but because of their software bandwidth problems, the app download is very slow, and many apps are above 50M, so if you want to quickly download the latest mod app, Jojoy is the first choice. Many of Jojoy's initiators are all senior Android engineers. They have a better understanding of the structure of APP, so Jojoy can provide high-quality download services. Use Jojoy to experience the high-speed download of the app!"
+    },
+    {
+      "id": 7,
+      "name_category": "Jojoy Toca Boca",
+      "title": "Toca Life World Mod APK Download for Free - Jojoy",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "Toca Life World Mod Apk is a very interesting sandbox simulation game. In this world, you can explore at will, decorate your house, keep pets, go shopping, etc...",
+      "link": "<p><strong><em>Toca Life World Mod Apk</em></strong>&nbsp;is a very interesting sandbox simulation game. In this world, you can explore at will, decorate your house, keep pets, go shopping, etc &hellip; and even go to all kinds of crazy things you can think of.</p> \n<p>Toca Life World Mod Apk has a relatively large world view, and players can play freely in Toka town. This is a little relaxation in the game, so that they can live the life they want, build their own cottage, dress up their cottage as they like, and live happily here.</p> \n<p>Here, you can meet new friends, travel and play with your friends, and make the life in the game more colorful. Moreover, the game is constantly being optimized and moving in the direction you like. You can play around in the game and see the beautiful scenery of the world. Here are several games of Toka World, each of which has a different experience. Choose the one you like and download it!</p>\n<p>Toca life world torrent&nbsp;download Jojoy&nbsp;is a classic simulated business type game. Players manage their own Toka world, find ways to attract different people, and then use their own gold coins to upgrade their places and make their places more powerful. If you find it very interesting to explore the application of Toca Life, you can do whatever you want-you can hold your breath and look forward to being in TOCA LIFE: WORLD, where you can constantly advance by creating stories with your favorite characters in your favorite places.</p>\n<p>Want to take your pet to school? Do it boldly. Take sloths to the skating park? Don't hesitate. Take the doctor to the salon and dye her green hair? Sure. In&nbsp;toca life world&nbsp;Jojoy download,&nbsp;you are the biggest player, and you can write stories&nbsp;at will.</p> \n<p>Toca life world: build stories mod apk torrent&nbsp;Jojoy apk downloadis a fun simulated business game. The overall picture is quite fresh, and cartoon pictures are adopted, which continues the classic simulated business game. This game has a huge game map, and players can freely explore the world, experience unusual life journeys, and have many career planning choices, and feel different stories. What are you waiting for if you are interested?</p>\n<p>In toca life world special version mod apk torrent&nbsp;Jojoy mod apk, players will experience a brand-new game world. In the game, players need to incarnate different characters, feel different ways of playing and having fun, and there are a variety of viewing modes waiting for you to challenge. Please download toca life world mod&nbsp;Jojoy 2022 lastest mod apk&nbsp;with your favorite friends! With a brand-new simulation game, players will be able to enjoy a variety of different characters in the game. You can create stories with your favorite characters in your favorite places and keep advancing. In Toka world, you are the biggest player and create your own legendary stories!</p>\n<h2><strong>GAME FEATURES</strong></h2>\n<p>The exquisite cartoon-style game screen gives you an exquisite experience. The game has a perfect system mode of cultivating achievement, which can satisfy your business desire. There are a lot of different simulated level challenges in the game, waiting for you to unlock and experience more. Players can freely create their own characters and enjoy rich corner colors and fashionable clothes.</p>\n<h2><strong>EXPLORE DIFFERENT PLACES</strong></h2>\n<p>Players can shuttle between different places to do interesting things, build apartments and taste delicious food. There are more than 300 characters for you to choose from in toca life world mod apk&nbsp;Jojoy download.</p>\n<p>You can meet friends all over the world, play together, do all kinds of crazy things, explore different places, have fun and interact with each other, and so on. You can visit your neighbor and complete his task to get commission, and all kinds of shops in the block can be your entertainment places. With the money you earn, you can buy different ornaments in the store. Every day here, there are different happy events waiting for you to open. Only by completing the task can you accumulate the money you need to buy various items and create wealth with your labor.</p>\n<h2><strong>DO WHATEVER</strong><strong>YOU</strong><strong>&nbsp;WANT HERE</strong></h2>\n<p>Players can explore deeply in the Toka world and do whatever they want here. No one can restrict you. The gameplay&nbsp;of toca life world rap mod Jojoy download&nbsp;is very open, and it pays great attention to the interaction between players. Although it is a virtual world, this world is a perfect dream world in everyone's mind.</p>\n<h2><strong>COLORFUL PROPS BEAUTIFY YOUR WORLD</strong></h2>\n<p>Build your house so that you can have another warm place in this place and invite your friends to have a party together. Buy all kinds of beautiful clothes for your character, and make this character a fashion leader with a very unique personality.</p>\n<p>Using props can make your game experience more comfortable, and the effects obtained by different props are different. You can also feel the beauty of the world by experiencing the plot of toca life world hack&nbsp;Jojoy download, so that your mood can become better. You can have a walk-and-go trip in the game, and let the unruly wind accompany your world exploration journey.</p>"
+    }
   ]
 }
