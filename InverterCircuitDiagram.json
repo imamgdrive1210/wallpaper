@@ -1,37 +1,764 @@
 {
-  "username": "Imamgdrive",
-  "album": [
-    "InverterCircuitDiagram"
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+      "open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+      "main_ads_rewards": "ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_natives": "",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "",
+      "backup_ads_intertitial": "",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 2,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "1"
+    }
   ],
-  "init_jumlah_photo": 100,
-  "pub_id": "pub-3940256099942544",
-  "app_id": "ca-app-pub-3940256099942544~3347511713",
-  "admob_banner_id": "ca-app-pub-9751399769703775/9572872145",
-  "admob_interstitial_id": "ca-app-pub-9751399769703775/4051283858",
-  "admob_native_id": "ca-app-pub-9751399769703775/1093129788",
-  "admob_rewared_id": "ca-app-pub-1094248810649911/8723523664",
-
-  "admob_hpk_1": "crypto",
-  "admob_hpk_2": "fashion",
-  "admob_hpk_3": "plastic surgery",
-  "admob_hpk_4": "mobile",
-  "admob_hpk_5": "insurance",
-
-  "fan_banner_id": "865707291396146_865707964729412",
-  "fan_interstitial_id": "865707291396146_865708038062738",
-  "fan_native_id": "865707291396146_865708114729397",
-
-  "mopub_banner_id": "xxxxx",
-  "mopub_interstitial_id": "xxxx",
-  "mopub_native_id": "xxxxx",
-
-  "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 300,
-
-  "primary_ads": "ADMOB",
-  "list_ads": [
-    "ADMOB",
-    "FAN",
-    "MOPUB"
+  "Categories": [
+    {
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_url": "https://i.pinimg.com/564x/d2/dc/20/d2dc205092f606d734cfd72418af8ac8.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/d2/dc/20/d2dc205092f606d734cfd72418af8ac8.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/ff/26/3f/ff263f54d8cc1ba8747df2e0d2d9f045.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f3/9b/48/f39b48ce28ef4c2525a0f55a941ae0e2.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/f0/93/46/f093468855b40afc666fc2fa8dd330af.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ef/ea/e3/efeae3db46563ce9e06872bc45127cd2.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/eb/ff/65/ebff65b06c4b62d6af980a2666a96520.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e8/6a/7f/e86a7fc3b300ac43038808d316d6b32c.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/e3/5b/98/e35b98bd0fcf7e9aabab452de641ab75.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e3/31/8b/e3318b1c6f32bed269b2830bd6a94ab0.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/da/8a/66/da8a66231ff54e44ec39e3edc5b9e998.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/da/19/c9/da19c9c6a3050168d174fa345874a830.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/d9/e4/fd/d9e4fd2aed2f04ed78beaeeab90ee458.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d4/0c/e7/d40ce709642ceed369d7b1477fda7c01.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/cf/75/24/cf7524a95c550956f9b56ddf4377ae70.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ca/69/ec/ca69ecd5b8fd9699172a9c62ac048ec3.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/c7/ff/c6/c7ffc67639f4ec7773a5f1603b845ae8.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c5/37/08/c53708a54157d232185865fbc3dd3dbf.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/c5/29/7f/c5297f3624e6340b804b4d129c223aba.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c4/b9/c6/c4b9c66712fe165e6d44823a693b1a59.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/bf/95/ec/bf95ec3f19b532351530a676d168a6f8.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/be/05/96/be059677c08d26862a4eb52f51ae10e5.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/b9/62/0f/b9620faffe24a25253f3954c913000fc.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b6/be/eb/b6beeba04226e73c7f09bde89cd15818.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/ad/52/58/ad525891047a86a31c0b4f7f70df7993.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ab/ec/bc/abecbc93dce2bbc88c1c07f44ad5ef5b.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/a9/3c/52/a93c52774d8adc2fa5b5ca0da65cafc3.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a6/20/de/a620dee82a1329daca02524f6d17853f.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/a5/c8/9f/a5c89fcbe5f0e479b6fe4fe358e41c92.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a1/84/47/a18447e43eebf52feab8f03966dbfa97.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/a0/f4/9b/a0f49b38fc1082df349b13f273689807.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/99/96/42/999642f7fc4ece3c77f923e55e2fc508.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/94/d8/ea/94d8ea0344f2208517dfd1b110cc5960.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/94/07/8b/94078bc2f4c847d26938b7048db43214.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/93/e6/23/93e623cda347fe79e889a8c6c2bdc1a3.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/92/f2/2f/92f22f88c1e3693a6fb07cf162a80e2b.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/92/13/40/921340ace51adbb6321033e11b139c32.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/90/f4/52/90f4523dd0e8ccf20d43ce739125ab7b.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/8d/0b/0c/8d0b0cb8b4e3a400b0df9d31bb0b6fa6.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/88/7c/d5/887cd521b198e76ca532a66cfb43c9fa.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/85/e6/d2/85e6d2580ed0a9867ec9bfdbdd784198.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/85/82/b4/8582b48a9e069085637b1500e15d3eed.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/81/a9/1f/81a91fa22c055c1db29b931afeee7236.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/78/2a/98/782a985b883dded1b8575128d410cc64.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/70/c3/13/70c313f0ec59ede45aedb70a4aefaa7c.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6e/e5/3d/6ee53d4e8a4e55254e016f27966f31e3.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/65/55/bb/6555bb31181c8d254c81bd04982a655e.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/5f/4d/81/5f4d81dc846a8529bf1086bda3e12526.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/5e/6f/73/5e6f73aec83af31218e3a7cb87673070.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/59/cf/5b/59cf5bc449724f0bc9cfc12ccd491b13.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/59/cc/55/59cc550d1ac82eee791295a4e4b4209b.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/56/6d/8a/566d8ab605455601c6b7019b894633b4.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/50/f4/2e/50f42e6e857d5da20d35b714d1e4c014.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/4c/d4/f7/4cd4f78a14673b6387a1490571e8eb29.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/47/44/80/4744806116b2576d7086a4a0a2621088.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/46/4c/99/464c9900d4603d32624a66f1cc179be2.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/3f/75/11/3f7511897337a57a088f32d93c8c81ae.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/3e/6d/79/3e6d79d048136cf3b600061e9d67832e.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/3d/f7/c5/3df7c56883e22febb5947b0423b11436.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/3c/32/d4/3c32d4292b2a95dd028de498fa89387f.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/39/3e/ff/393eff6aaed5ed505248658de7114a8f.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/37/a0/59/37a059f90d241f1770641b1088c98c51.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/30/e2/7e/30e27e3b6ffad1eabf1b53e4145b1ca2.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/2e/79/22/2e7922ca6e8d7e21ce602964a0d9f22c.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/29/85/03/298503d428ffe51b54dcbac10d542e0a.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/28/89/4c/28894c0054b175a7f9534beeb123ae26.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/28/19/f4/2819f4641fadc61682ceeca949af6f50.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1a/1e/90/1a1e90ae06a842341d2e8caf7fe04807.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/17/fc/1b/17fc1b91acf3faeb77e975162c57b13f.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/14/61/08/14610872e99108459f650553086f9598.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/12/ad/6d/12ad6df54cbd0eaf054ab4d9a133f79b.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/0d/dd/5e/0ddd5e6c5f9eb7a8efa09190dbb553dc.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/0a/2e/4b/0a2e4bc3898084009356f0a2e9680f98.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/05/e5/16/05e51617ec2f6faeea97729345f98502.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Inverter Circuit Diagram",
+      "wallpaper_name": "Inverter Circuit Diagram Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Inverter Circuit Diagram",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/00/51/b2/0051b2dc675e4ca49b2a848bafbcd9f8.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Jojoy Toca Boca",
+      "title": "Why Download Jojoy APK",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. All mods are safe and ad-free ",
+      "link": "<p>Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. All mods are safe and ad-free. Download 100% working mods with Jojoy App from now on!! Also, Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. All mods are safe and ad-free. Download 100% working mods with Jojoy App from now on!!</p>.\n <p>Jojoy has already gained the love of millions of users in just one year of its establishment. How did Jojoy achieve such great success in just one year, and has been spontaneously recommended by many KOLs. Because Jojoy is an application store similar to Google Play, Google Play has strict requirements and restrictions on various apps, so many interesting apps are rejected by Google Play.</p> \n<p>Then Jojoy gathered a lot of Mod APP lover friends. With the concerted efforts of everyone, Jojoy has been successfully developed. Jojoy.io is a collection of Mod APPs that we think are valuable and recommend them to everyone.</p> \n<p>A large number of games and tool mod apps are collected in the Jojoy App. At present, more than 100,000 apps have been included, especially for gamers. The game mods in Jojoy have additional functions, because some game apps require payment from downloading to the purchase of props and gold coins, and now Jojoy solves this problem Troubled, Jojoy's game has unlimited gold coins, skins, game props, etc., which greatly improves the game experience. And Jojoy also provides an app review function, so you can interact with other players in jojoy, find your favorite games, and leave reviews for good games to recommend to more users.</p>\n<p>Players often encounter this situation, where many games are far below your expectations. You may even regret downloading these games. So what kind of games are really fun to play? jojoy finds high-quality games based on editorial and other players' ratings. And Jojoy recommends you the following popular games, including Jojoy stumble guys, Toca Life World, Among Us... and we offer free mod APK downloads for the latest versions of each game. All popular games are in Jojoy, come and experience it!</p>\n<p>With thousands of games released every day, how do you quickly find popular games or the latest mods? Jojoy will update the list of popular games every day, so you can easily find the latest games that are hot all over the world. The following are the latest 2022 popular game versions on Jojoy. Come and see which games everyone is experiencing!</p>"
+    },
+    {
+      "id": 2,
+      "name_category": "Jojoy Toca Boca",
+      "title": "What is Jojoy?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "Jojoy is an Android Mod App Store. You can get the latest popular 100% working games and tools mods for Android in Jojoy.",
+      "link": "Jojoy is an Android Mod App Store. You can get the latest popular 100% working games and tools mods for Android in Jojoy."
+    },
+    {
+      "id": 3,
+      "name_category": "Jojoy Toca Boca",
+      "title": "Jojoy Provides Multiple Categories",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. ",
+      "link": "Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. All mods are safe and ad-free. Download 100% working mods with Jojoy App from now on!! Also, Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. All mods are safe and ad-free. Download 100% working mods with Jojoy App from now on!! \n In order to achieve the fastest update of Jojoy's mod apk, Jojoy's apk is manually uploaded by the users, so it can ensure that it is 100% available, and there is no need to worry about any advertisements and viruses."
+    },
+    {
+      "id": 4,
+      "name_category": "Jojoy Toca Boca",
+      "title": "Download Paid Apps for Free",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "Jojoy is currently the largest mod apk download center",
+      "link": "Jojoy is currently the largest mod apk download center, it can guarantee that you can download any mod apk you need for free, whether it is a game or a tool, it can be easily obtained in Jojoy.\n Many mod apk download centers can't meet users' download needs. The mod apk downloaded from their sites often contains a lot of advertisements and even viruses, which will seriously affect your mobile phone. To download the safest mod APK, come to Jojoy!"
+    },
+    {
+      "id": 5,
+      "name_category": "Jojoy Toca Boca",
+      "title": "Quick access to the latest version of the mod:",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "If you are already a mod veteran,",
+      "link": "If you are already a mod veteran, every time your mod app is updated, you can't find a place to download the latest mod, then jojoy can help you. Jojoy can update the latest mod at hourly level. So if you want to know if your mod is the latest version, or if you want to download the latest version of the mod, you can come to Jojoy, which has the most comprehensive and safe mod app. All mods on Jojoy are up to date in 2023 and work 100%."
+    },
+    {
+      "id": 6,
+      "name_category": "Jojoy Toca Boca",
+      "title": "High-speed download",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "At present, there are many mod download tools on the market",
+      "link": "At present, there are many mod download tools on the market, but because of their software bandwidth problems, the app download is very slow, and many apps are above 50M, so if you want to quickly download the latest mod app, Jojoy is the first choice. Many of Jojoy's initiators are all senior Android engineers. They have a better understanding of the structure of APP, so Jojoy can provide high-quality download services. Use Jojoy to experience the high-speed download of the app!"
+    },
+    {
+      "id": 7,
+      "name_category": "Jojoy Toca Boca",
+      "title": "Toca Life World Mod APK Download for Free - Jojoy",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "Toca Life World Mod Apk is a very interesting sandbox simulation game. In this world, you can explore at will, decorate your house, keep pets, go shopping, etc...",
+      "link": "<p><strong><em>Toca Life World Mod Apk</em></strong>&nbsp;is a very interesting sandbox simulation game. In this world, you can explore at will, decorate your house, keep pets, go shopping, etc &hellip; and even go to all kinds of crazy things you can think of.</p> \n<p>Toca Life World Mod Apk has a relatively large world view, and players can play freely in Toka town. This is a little relaxation in the game, so that they can live the life they want, build their own cottage, dress up their cottage as they like, and live happily here.</p> \n<p>Here, you can meet new friends, travel and play with your friends, and make the life in the game more colorful. Moreover, the game is constantly being optimized and moving in the direction you like. You can play around in the game and see the beautiful scenery of the world. Here are several games of Toka World, each of which has a different experience. Choose the one you like and download it!</p>\n<p>Toca life world torrent&nbsp;download Jojoy&nbsp;is a classic simulated business type game. Players manage their own Toka world, find ways to attract different people, and then use their own gold coins to upgrade their places and make their places more powerful. If you find it very interesting to explore the application of Toca Life, you can do whatever you want-you can hold your breath and look forward to being in TOCA LIFE: WORLD, where you can constantly advance by creating stories with your favorite characters in your favorite places.</p>\n<p>Want to take your pet to school? Do it boldly. Take sloths to the skating park? Don't hesitate. Take the doctor to the salon and dye her green hair? Sure. In&nbsp;toca life world&nbsp;Jojoy download,&nbsp;you are the biggest player, and you can write stories&nbsp;at will.</p> \n<p>Toca life world: build stories mod apk torrent&nbsp;Jojoy apk downloadis a fun simulated business game. The overall picture is quite fresh, and cartoon pictures are adopted, which continues the classic simulated business game. This game has a huge game map, and players can freely explore the world, experience unusual life journeys, and have many career planning choices, and feel different stories. What are you waiting for if you are interested?</p>\n<p>In toca life world special version mod apk torrent&nbsp;Jojoy mod apk, players will experience a brand-new game world. In the game, players need to incarnate different characters, feel different ways of playing and having fun, and there are a variety of viewing modes waiting for you to challenge. Please download toca life world mod&nbsp;Jojoy 2022 lastest mod apk&nbsp;with your favorite friends! With a brand-new simulation game, players will be able to enjoy a variety of different characters in the game. You can create stories with your favorite characters in your favorite places and keep advancing. In Toka world, you are the biggest player and create your own legendary stories!</p>\n<h2><strong>GAME FEATURES</strong></h2>\n<p>The exquisite cartoon-style game screen gives you an exquisite experience. The game has a perfect system mode of cultivating achievement, which can satisfy your business desire. There are a lot of different simulated level challenges in the game, waiting for you to unlock and experience more. Players can freely create their own characters and enjoy rich corner colors and fashionable clothes.</p>\n<h2><strong>EXPLORE DIFFERENT PLACES</strong></h2>\n<p>Players can shuttle between different places to do interesting things, build apartments and taste delicious food. There are more than 300 characters for you to choose from in toca life world mod apk&nbsp;Jojoy download.</p>\n<p>You can meet friends all over the world, play together, do all kinds of crazy things, explore different places, have fun and interact with each other, and so on. You can visit your neighbor and complete his task to get commission, and all kinds of shops in the block can be your entertainment places. With the money you earn, you can buy different ornaments in the store. Every day here, there are different happy events waiting for you to open. Only by completing the task can you accumulate the money you need to buy various items and create wealth with your labor.</p>\n<h2><strong>DO WHATEVER</strong><strong>YOU</strong><strong>&nbsp;WANT HERE</strong></h2>\n<p>Players can explore deeply in the Toka world and do whatever they want here. No one can restrict you. The gameplay&nbsp;of toca life world rap mod Jojoy download&nbsp;is very open, and it pays great attention to the interaction between players. Although it is a virtual world, this world is a perfect dream world in everyone's mind.</p>\n<h2><strong>COLORFUL PROPS BEAUTIFY YOUR WORLD</strong></h2>\n<p>Build your house so that you can have another warm place in this place and invite your friends to have a party together. Buy all kinds of beautiful clothes for your character, and make this character a fashion leader with a very unique personality.</p>\n<p>Using props can make your game experience more comfortable, and the effects obtained by different props are different. You can also feel the beauty of the world by experiencing the plot of toca life world hack&nbsp;Jojoy download, so that your mood can become better. You can have a walk-and-go trip in the game, and let the unruly wind accompany your world exploration journey.</p>"
+    }
   ]
 }
