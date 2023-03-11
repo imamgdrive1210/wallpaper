@@ -1,37 +1,958 @@
 {
-  "username": "Imamgdrive",
-  "album": [
-    "FaithWallpapersandBackgrounds"
-  ],
-  "init_jumlah_photo": 100,
-  "pub_id": "pub-3940256099942544",
-  "app_id": "ca-app-pub-3940256099942544~3347511713",
-  "admob_banner_id": "ca-app-pub-9751399769703775/5585525677",
-  "admob_interstitial_id": "ca-app-pub-9751399769703775/2597783142",
-  "admob_native_id": "ca-app-pub-9751399769703775/6345456463",
-  "admob_rewared_id": "ca-app-pub-9751399769703775/9898145207",
-
-  "admob_hpk_1": "crypto",
-  "admob_hpk_2": "fashion",
-  "admob_hpk_3": "plastic surgery",
-  "admob_hpk_4": "mobile",
-  "admob_hpk_5": "insurance",
-
-  "fan_banner_id": "xxxxx",
-  "fan_interstitial_id": "xxxx",
-  "fan_native_id": "xxx",
-
-  "mopub_banner_id": "xxxxx",
-  "mopub_interstitial_id": "xxxx",
-  "mopub_native_id": "xxxxx",
-
-  "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 300,
-
-  "primary_ads": "ADMOB",
-  "list_ads": [
-    "ADMOB",
-    "MOPUB",
-    "FAN"
-  ]
-}
+    "Ads": [
+      {
+        "select_main_ads": "ADMOB",
+        "select_backup_ads":"APPLOVIN-D",
+        "main_ads_banner": "ca-app-pub-2938946993127964/5852463417",
+        "main_ads_intertitial":"ca-app-pub-2938946993127964/7656499670",
+        "main_ads_natives":"ca-app-pub-2938946993127964/8287055064",
+        "main_ads_rewards":"ca-app-pub-2938946993127964/1478104130",
+        "open_ads_admob":"ca-app-pub-2938946993127964/7225803572",
+        "backup_ads_natives":"",
+        "backup_ads_rewards":"",
+        "backup_ads_banner":"",
+        "backup_ads_intertitial":"",
+        "open_ads_alien":"",
+        "switch_open_ads":"1",
+        "switch_banner_natives_ads":"1",
+        "on_off_native_listview":"1",
+        "interval_intertitial": 5,
+        "initialize_sdk":"107355779",
+        "initialize_sdk_backup_ads":"",
+        "high_paying_keyword_1": "",
+        "high_paying_keyword_2": "",
+        "high_paying_keyword_3": "",
+        "high_paying_keyword_4": "",
+        "high_paying_keyword_5": "",
+        "status_app": "0",
+        "link_redirect": "https://",
+        "on_off_guide_wall":"3"
+  
+      }
+    ],
+     "Categories": [
+      {
+        "name_category": "Little Pony Wallpaper",
+        "wallpaper_url": "https://i.pinimg.com/564x/e1/90/bb/e190bb65c97583c5213512f2426b55e7.jpg"
+      }
+    ],
+    "Wallpaper": [
+        {
+          "id": "714242822171467322",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822171467322",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/e1/90/bb/e190bb65c97583c5213512f2426b55e7.jpg"
+        },
+        {
+          "id": "714242822170033912",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822170033912",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/7a/8a/41/7a8a41b7b11054934f21a42ba40949a1.jpg"
+        },
+        {
+          "id": "714242822151849900",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822151849900",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/4f/7e/e5/4f7ee5cb9f92d4f9cbb89a0ea4a3a49f.jpg"
+        },
+        {
+          "id": "714242822151849894",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822151849894",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/fe/84/d7/fe84d73ae500581979026197e64143f1.jpg"
+        },
+        {
+          "id": "714242822151849869",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822151849869",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/fb/87/51/fb87511bd6dbb5534d818a2afa9e9667.jpg"
+        },
+        {
+          "id": "714242822151697117",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822151697117",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/f8/70/23/f8702319c964540d6210c9d09321c9fe.jpg"
+        },
+        {
+          "id": "714242822151697067",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822151697067",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/f7/99/0c/f7990cad8ac97cde02b363aab1b354d7.jpg"
+        },
+        {
+          "id": "714242822151359451",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822151359451",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/ee/34/a9/ee34a93255de66cfce5727f9631d3b32.jpg"
+        },
+        {
+          "id": "714242822150098949",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822150098949",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/ed/8d/9b/ed8d9be61c10543448c0eb0f0c5f8519.jpg"
+        },
+        {
+          "id": "714242822150098938",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822150098938",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/ec/34/f6/ec34f6492cb18ba4e94ac0d62fee8ee8.jpg"
+        },
+        {
+          "id": "714242822150098895",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822150098895",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/e8/7a/92/e87a9271b3a0d9f15bee3e41b4167a9f.jpg"
+        },
+        {
+          "id": "714242822150098887",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822150098887",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/e7/08/92/e70892f9db2509d9e00778f91a92350e.jpg"
+        },
+        {
+          "id": "714242822150098881",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822150098881",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/e4/69/bb/e469bbbb7e4080e0979e5d9eb6167442.jpg"
+        },
+        {
+          "id": "714242822150098876",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822150098876",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/e0/6a/53/e06a539a2aaaf01afaccf554626e11da.jpg"
+        },
+        {
+          "id": "714242822150098854",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822150098854",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/de/62/71/de62713f1bfbdc163a4b9156788d5229.jpg"
+        },
+        {
+          "id": "714242822149867350",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149867350",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/d7/f0/5d/d7f05d4e9f1f1b427d30f6a311e741bf.jpg"
+        },
+        {
+          "id": "714242822149270900",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149270900",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/d5/f5/2e/d5f52e500500fee92cb3059e26b277ab.jpg"
+        },
+        {
+          "id": "714242822149101280",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149101280",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/d3/15/e3/d315e33d3a288a34cb1ff110348aa513.jpg"
+        },
+        {
+          "id": "714242822149101277",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149101277",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/d0/fb/b9/d0fbb9edbae5d91854cd2447a408598d.jpg"
+        },
+        {
+          "id": "714242822149101267",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149101267",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/cd/7a/25/cd7a2550546b6a5cc0c32ed38c4749b2.jpg"
+        },
+        {
+          "id": "714242822149101258",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149101258",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/ca/90/b0/ca90b08645e74643f77c368f5f9fb0e4.jpg"
+        },
+        {
+          "id": "714242822149100692",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149100692",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/c8/aa/5b/c8aa5bc8a83723f1d77c6d4f10c4e1f3.jpg"
+        },
+        {
+          "id": "714242822149100681",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149100681",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/ba/ca/48/baca484fc19340b9586602e8c601717c.jpg"
+        },
+        {
+          "id": "714242822149100668",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149100668",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/b5/fb/a2/b5fba26709c7542346c3f002ea116fed.jpg"
+        },
+        {
+          "id": "714242822149100658",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149100658",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/ae/8d/92/ae8d92fb2e3e16fd5d617d7dad0333ee.jpg"
+        },
+        {
+          "id": "649503577527932077",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper649503577527932077",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/ae/5a/f0/ae5af0502fd72a48f7bee166315e76cb.jpg"
+        },
+        {
+          "id": "131659989099515311",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper131659989099515311",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/a9/4e/4f/a94e4fef15bff34400d6ec4a3353c033.jpg"
+        },
+        {
+          "id": "384143043228848250",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper384143043228848250",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/a9/0c/3a/a90c3a550c283241404bdec35707e855.jpg"
+        },
+        {
+          "id": "592012313529434213",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper592012313529434213",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/a6/ec/c0/a6ecc0dbcbf0804159f3d6264f92e8ac.jpg"
+        },
+        {
+          "id": "464644886567970648",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper464644886567970648",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/a5/4e/58/a54e5881b40117b8c6373947a7486bec.jpg"
+        },
+        {
+          "id": "852939616944933466",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper852939616944933466",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/a3/a2/55/a3a255471c2b4aec6039e39babc080a7.jpg"
+        },
+        {
+          "id": "853643304386339341",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper853643304386339341",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/9d/84/b1/9d84b1e873e3a9548b173dfba86a1fb0.jpg"
+        },
+        {
+          "id": "714242822171467322",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822171467322",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/9c/c8/6c/9cc86c645ddea406c665a7bf2ec3a3c9.jpg"
+        },
+        {
+          "id": "714242822170033912",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822170033912",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/9a/6a/0c/9a6a0ca370aa695a81b6ea5942b29664.jpg"
+        },
+        {
+          "id": "714242822151849900",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822151849900",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/93/0b/a2/930ba2f50428c1988ab592744a2573aa.jpg"
+        },
+        {
+          "id": "714242822151849894",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822151849894",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/8f/ec/e7/8fece7dba06e7aeed8cad0481e0fa160.jpg"
+        },
+        {
+          "id": "714242822151849869",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822151849869",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/8a/e2/c6/8ae2c662f30c376913ff7db9386dda28.jpg"
+        },
+        {
+          "id": "714242822151697117",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822151697117",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/88/73/ee/8873eed96f0d5d3d13283b3276e236f5.jpg"
+        },
+        {
+          "id": "714242822151697067",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822151697067",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/7e/97/bc/7e97bc5e7b3c1d066a80528b9f641034.jpg"
+        },
+        {
+          "id": "714242822151359451",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822151359451",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/7b/54/01/7b54013b2cfe7b5ae238b8f2cdbbb3dc.jpg"
+        },
+        {
+          "id": "714242822150098949",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822150098949",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/73/c8/a9/73c8a96c95ed86de47b0c5fd25bd6d33.jpg"
+        },
+        {
+          "id": "714242822150098938",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822150098938",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/69/fa/f3/69faf35303a26e28d95f0600b212fbaf.jpg"
+        },
+        {
+          "id": "714242822150098895",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822150098895",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/65/e5/de/65e5de22971ffef9ed6f7ab251052602.jpg"
+        },
+        {
+          "id": "714242822150098887",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822150098887",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/63/ec/cc/63eccca2052d6335804b517859a4b6e1.jpg"
+        },
+        {
+          "id": "714242822150098881",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822150098881",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/61/1f/8c/611f8c1a89b38b0e57791c872f8a46fa.jpg"
+        },
+        {
+          "id": "714242822150098876",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822150098876",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/5d/10/dc/5d10dc2a3fdfb28d41b388e5ce94193e.jpg"
+        },
+        {
+          "id": "714242822150098854",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822150098854",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/5a/b3/47/5ab347bfaa91cc3e5ddb31a65eeb2825.jpg"
+        },
+        {
+          "id": "714242822149867350",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149867350",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/58/b7/86/58b7863a5e5dfd07dd754017c511dd7b.jpg"
+        },
+        {
+          "id": "714242822149270900",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149270900",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/57/c2/0e/57c20e84bb558315f25aec1f0972ba17.jpg"
+        },
+        {
+          "id": "714242822149101280",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149101280",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/55/91/34/559134a47560ecb2b591caa32c7c5aec.jpg"
+        },
+        {
+          "id": "714242822149101277",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149101277",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/51/fd/80/51fd809fdc36743048c7c778262989e4.jpg"
+        },
+        {
+          "id": "714242822149101267",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149101267",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/4f/35/65/4f3565b47d0f2167689d73dd1e192586.jpg"
+        },
+        {
+          "id": "714242822149101258",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149101258",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/4e/40/74/4e40742b289b3dad63dd0ac3c19448cb.jpg"
+        },
+        {
+          "id": "714242822149100692",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149100692",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/47/5c/83/475c8345f84050224eac483d830a3676.jpg"
+        },
+        {
+          "id": "714242822149100681",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149100681",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/46/9d/98/469d984fee305249c38d0e529cc3f329.jpg"
+        },
+        {
+          "id": "714242822149100668",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149100668",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/43/33/1f/43331faa7cf315b283115ce2c90066e9.jpg"
+        },
+        {
+          "id": "714242822149100658",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149100658",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/3d/62/5c/3d625cfbbfb52be0f4e0b3f8827ae140.jpg"
+        },
+        {
+          "id": "358880664069089576",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper358880664069089576",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/37/46/4a/37464a6044d80489c8118e771d9c81d5.jpg"
+        },
+        {
+          "id": "586875395186062912",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper586875395186062912",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/30/c2/d1/30c2d1829f914f07daa755404cbf20e2.jpg"
+        },
+        {
+          "id": "62346776084541613",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper62346776084541613",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/2f/07/d2/2f07d2b4445ddb2df7fcc729fe2cc833.jpg"
+        },
+        {
+          "id": "499618152421404401",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper499618152421404401",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/27/00/64/270064f94c6e01b3577e44e4f10ebe4d.jpg"
+        },
+        {
+          "id": "585256914095741118",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper585256914095741118",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/24/23/6e/24236e4414980827794c28e666060f9b.jpg"
+        },
+        {
+          "id": "571605377716374282",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper571605377716374282",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/1e/aa/1e/1eaa1ec9f8759233686dfb282cf6ec86.jpg"
+        },
+        {
+          "id": "714242822171467322",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822171467322",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/15/a9/70/15a97070ecb3a18f61c064d9ed1b5571.jpg"
+        },
+        {
+          "id": "714242822170033912",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822170033912",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/0d/eb/b9/0debb9d0443deef2c8d028ff1ab9169f.jpg"
+        },
+        {
+          "id": "714242822151849900",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822151849900",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 0,
+          "wallpaper_url": "https://i.pinimg.com/564x/0d/03/47/0d0347af5829700ad2d1627513ef409b.jpg"
+        },
+        {
+          "id": "714242822151849894",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822151849894",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/0a/31/c1/0a31c1a0e8659d580cf40656c2570b4c.jpg"
+        },
+        {
+          "id": "714242822151849869",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822151849869",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/09/d9/2e/09d92e65e517a77ad8be09d0e01e7fd3.jpg"
+        },
+        {
+          "id": "714242822151697117",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822151697117",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/03/37/05/0337054c74fcef4be11b3510229fe950.jpg"
+        },
+        {
+          "id": "714242822151697067",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822151697067",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/f7/cc/9a/f7cc9a5ffff02754003f0f1edb13159f.jpg"
+        },
+        {
+          "id": "714242822151359451",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822151359451",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/ed/48/be/ed48be153cf633c98541d39196a7d9fb.jpg"
+        },
+        {
+          "id": "714242822150098949",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822150098949",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/e4/65/3f/e4653f87c81353565f082d94552bd986.jpg"
+        },
+        {
+          "id": "714242822150098938",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822150098938",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/d9/48/d1/d948d1cd89fbe612e88354b8f1c2970b.jpg"
+        },
+        {
+          "id": "714242822150098895",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822150098895",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/b9/a7/78/b9a778de541c2757dc226651f2bde909.jpg"
+        },
+        {
+          "id": "714242822150098887",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822150098887",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/b1/d8/2a/b1d82a39794a98a38278b265ec5ac20c.jpg"
+        },
+        {
+          "id": "714242822150098881",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822150098881",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/ac/41/00/ac4100a95e0749e778ac62f1aac8ea3c.jpg"
+        },
+        {
+          "id": "714242822150098876",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822150098876",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/9d/b7/39/9db7396fb8a4490492de1d74cc84659c.jpg"
+        },
+        {
+          "id": "714242822150098854",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822150098854",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/97/5b/f7/975bf7a469969192d97d6205143571ee.jpg"
+        },
+        {
+          "id": "714242822149867350",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149867350",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/83/76/85/8376856e2b5a65412425c989376488d2.jpg"
+        },
+        {
+          "id": "714242822149270900",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149270900",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/78/c0/30/78c0305d8568a1f2da4ded6554269b13.jpg"
+        },
+        {
+          "id": "714242822149101280",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149101280",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/70/1c/56/701c5666860fbc9ef442e6ad0e2a2cb0.jpg"
+        },
+        {
+          "id": "714242822149101277",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149101277",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/6f/32/bb/6f32bbffb9e9711e03d17f66a10e6921.jpg"
+        },
+        {
+          "id": "714242822149101267",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149101267",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/6e/97/0d/6e970dacc4de630a21268f46db41a8ad.jpg"
+        },
+        {
+          "id": "714242822149101258",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149101258",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/6e/47/87/6e47870e30d5716db55cdfd256deae28.jpg"
+        },
+        {
+          "id": "714242822149100692",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149100692",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/6a/37/3e/6a373eb3adc6728be3726abf2e069fb7.jpg"
+        },
+        {
+          "id": "714242822149100681",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149100681",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/69/9f/fa/699ffa3dbbb4fe01f2eb3e0a2ad3c5ff.jpg"
+        },
+        {
+          "id": "714242822149100668",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149100668",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/53/7d/92/537d92e67ec776e9a35ef5500abc08fb.jpg"
+        },
+        {
+          "id": "714242822149100658",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822149100658",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/49/9b/98/499b988f53ebc1607f93cd9d9a199819.jpg"
+        },
+        {
+          "id": "27795722692716389",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper27795722692716389",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/45/02/d8/4502d8848394ede92dc9c1297c5e5c2e.jpg"
+        },
+        {
+          "id": "24769866692117946",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper24769866692117946",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/3f/9f/80/3f9f802b3049622ea5c2c16c81b78e5f.jpg"
+        },
+        {
+          "id": "389913280252701740",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper389913280252701740",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/37/f1/d5/37f1d5087152ee23782d5dd4da40405c.jpg"
+        },
+        {
+          "id": "361765782578553077",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper361765782578553077",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/37/b7/ee/37b7ee07ad5ed7c412ac2597ed878ed7.jpg"
+        },
+        {
+          "id": "79657487151474684",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper79657487151474684",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/37/24/5b/37245b1327b69854f86a2e071deb92b0.jpg"
+        },
+        {
+          "id": "925489792152442896",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper925489792152442896",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/20/ad/a9/20ada9cb681796b71979b4c943b337db.jpg"
+        },
+        {
+          "id": "14214555063601230",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper14214555063601230",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/17/78/50/1778500f67c038c4c0c75873b51afddf.jpg"
+        },
+        {
+          "id": "714242822171467322",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822171467322",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/0e/de/78/0ede78d6018d4e42aad5bc7a2528c42c.jpg"
+        },
+        {
+          "id": "714242822170033912",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822170033912",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/07/8c/9b/078c9b964694a0d45359741637c1a143.jpg"
+        },
+        {
+          "id": "714242822151849900",
+          "name_category": "Little Pony Wallpaper",
+          "wallpaper_name": "Little Pony Wallpaper714242822151849900",
+          "wallpaper_detail": "This is Exclusive wallpaper Little Pony",
+          "wallpaper_type": "IMAGE",
+          "lock": 1,
+          "wallpaper_url": "https://i.pinimg.com/564x/00/77/fb/0077fbe6cd16b6ab0910be2abb5058b8.jpg"
+        }
+      ],
+    "Guide": [
+      {
+        "id": 1,
+        "name_category": "Playstore",
+        "title": "Cara mengisi Form Data Safety",
+        "image": "file:///android_asset/image/guide1.jpg",
+        "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+        "link": "file:///android_asset/guide/guide1.html"
+      },
+      {
+        "id": 2,
+        "name_category": "Tutorial",
+        "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+        "image": "file:///android_asset/image/guide2.jpg",
+        "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+        "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+      },
+      {
+        "id": 3,
+        "name_category": "Tutorial",
+        "title": "Modul Simpan Json di Hosting dan Google Drive",
+        "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+        "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+        "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+      },
+      {
+        "id": 4,
+        "name_category": "Reskin",
+        "title": "Cara menggunakan Alien SDK Ads",
+        "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+        "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+        "link": "file:///android_asset/guide/guide2.html"
+      }
+    ]
+  }
+  
