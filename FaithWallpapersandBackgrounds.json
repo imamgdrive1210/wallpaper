@@ -1,34 +1,33 @@
 {
-    "Ads": [
-      {
-        "select_main_ads": "ADMOB",
-        "select_backup_ads":"APPLOVIN-D",
-        "main_ads_banner": "ca-app-pub-2938946993127964/5852463417",
-        "main_ads_intertitial":"ca-app-pub-2938946993127964/7656499670",
-        "main_ads_natives":"ca-app-pub-2938946993127964/8287055064",
-        "main_ads_rewards":"ca-app-pub-2938946993127964/1478104130",
-        "open_ads_admob":"ca-app-pub-2938946993127964/7225803572",
-        "backup_ads_natives":"",
-        "backup_ads_rewards":"",
-        "backup_ads_banner":"",
-        "backup_ads_intertitial":"",
-        "open_ads_alien":"",
-        "switch_open_ads":"1",
-        "switch_banner_natives_ads":"1",
-        "on_off_native_listview":"1",
-        "interval_intertitial": 5,
-        "initialize_sdk":"107355779",
-        "initialize_sdk_backup_ads":"",
-        "high_paying_keyword_1": "",
-        "high_paying_keyword_2": "",
-        "high_paying_keyword_3": "",
-        "high_paying_keyword_4": "",
-        "high_paying_keyword_5": "",
-        "status_app": "0",
-        "link_redirect": "https://",
-        "on_off_guide_wall":"3"
-  
-      }
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "583340917150117_583341443816731",
+      "main_ads_intertitial": "583340917150117_583341517150057",
+      "main_ads_natives": "583340917150117_583341550483387",
+      "main_ads_rewards": "753427496105874_755794995869124",
+      "open_ads_admob": "",
+      "backup_ads_natives": "",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "",
+      "backup_ads_intertitial": "",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 2,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
     ],
      "Categories": [
       {
