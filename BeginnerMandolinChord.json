@@ -6,9 +6,9 @@
   "init_jumlah_photo": 100,
   "pub_id": "pub-9751399769703775",
   "app_id": "ca-app-pub-9751399769703775~5781912973",
-  "admob_banner_id": "ca-app-pub-9751399769703775/9406169423",
-  "admob_interstitial_id": "ca-app-pub-9751399769703775/5298569306",
-  "admob_native_id": "ca-app-pub-9751399769703775/7518937331",
+  "admob_banner_id": "226678686433012_226678956432985",
+  "admob_interstitial_id": "226678686433012_226679056432975",
+  "admob_native_id": "226678686433012_226679013099646",
   "admob_rewared_id": "ca-app-pub-9751399769703775/9613933503",
 
   "admob_hpk_1": "crypto",
@@ -17,9 +17,9 @@
   "admob_hpk_4": "mobile",
   "admob_hpk_5": "insurance",
 
-  "fan_banner_id": "xxxxx",
-  "fan_interstitial_id": "xxxx",
-  "fan_native_id": "xxx",
+  "fan_banner_id": "226678686433012_226678956432985",
+  "fan_interstitial_id": "226678686433012_226679056432975",
+  "fan_native_id": "226678686433012_226679013099646",
 
   "mopub_banner_id": "xxxxx",
   "mopub_interstitial_id": "xxxx",
@@ -28,10 +28,10 @@
   "interstitial_inverval": 3,
   "rewarded_photo_inverval": 3,
 
-  "primary_ads": "ADMOB",
+  "primary_ads": "FAN",
   "list_ads": [
-    "ADMOB",
+    "FAN",
     "MOPUB",
-    "FAN"
+    "ADMOB"
   ]
 }
