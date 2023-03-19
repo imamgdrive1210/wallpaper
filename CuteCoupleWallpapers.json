@@ -28,1482 +28,1610 @@
       "link_redirect": "https://",
       "on_off_guide_wall": "3"
     }
-    ],
-    "Categories": [
-      {
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_url": "https://i.pinimg.com/564x/be/5e/58/be5e58a9cbc24948fbe48024acb6f767.jpg"
-      },
-      {
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_url": "https://i.pinimg.com/564x/6b/d9/a8/6bd9a81d5381e62954b5e5dbe1cfa600.jpg"
-      }
-    ],
-    "Wallpaper": [
-      {
-        "id": "714242822171467322",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822171467322",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/24/9c/dc/249cdc9966ccbbf50cdd6b62b53313c2.jpg"
-      },
-      {
-        "id": "714242822170033912",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822170033912",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/be/5e/58/be5e58a9cbc24948fbe48024acb6f767.jpg"
-      },
-      {
-        "id": "714242822151849900",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822151849900",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/69/57/e3/6957e3af2cfda36cfd806993947d091e.jpg"
-      },
-      {
-        "id": "714242822151849894",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822151849894",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/0b/0f/bd/0b0fbdc1733cddd373c76bbd2867af41.jpg"
-      },
-      {
-        "id": "714242822151849869",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822151849869",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/03/c6/e6/03c6e6a81b4f9769793820d2ce38ab26.jpg"
-      },
-      {
-        "id": "714242822151697117",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822151697117",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/03/87/3b/03873b2173beeffcd34f7f00a9e01e81.jpg"
-      },
-      {
-        "id": "714242822151697067",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822151697067",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/89/1a/06/891a06e1c59b0b5ae8918fdf3fd09858.jpg"
-      },
-      {
-        "id": "714242822151359451",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822151359451",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/97/78/68/977868400d2cbd937d3a9f12ee46e462.jpg"
-      },
-      {
-        "id": "714242822150098949",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822150098949",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/85/9c/2d/859c2d6f8db1df0e945638baf5dda410.jpg"
-      },
-      {
-        "id": "714242822150098938",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822150098938",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/f1/d1/22/f1d1225df17d47db513cee6efe8a2064.jpg"
-      },
-      {
-        "id": "714242822150098895",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822150098895",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/67/36/06/673606675f21e407a5365383df150060.jpg"
-      },
-      {
-        "id": "714242822150098887",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822150098887",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/85/2c/18/852c1810ac22aeb6628dab795990535f.jpg"
-      },
-      {
-        "id": "714242822150098881",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822150098881",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/95/40/54/954054eb37036ada049afa9efe7e6e27.jpg"
-      },
-      {
-        "id": "714242822150098876",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822150098876",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/81/e7/a3/81e7a30348e6d1b0e8aa29d35055d998.jpg"
-      },
-      {
-        "id": "714242822150098854",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822150098854",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/1a/5b/7f/1a5b7f4b5c233c5e1dd73ff75733c028.jpg"
-      },
-      {
-        "id": "714242822149867350",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149867350",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/21/87/d7/2187d72f1ece1860fa6c7b55d85ecb80.jpg"
-      },
-      {
-        "id": "714242822149270900",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149270900",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/3a/3b/55/3a3b558a182b26e1dcd319f8d6026ef0.jpg"
-      },
-      {
-        "id": "714242822149101280",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149101280",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/a5/e8/81/a5e881b932224bd705bf16eb7b7ca579.jpg"
-      },
-      {
-        "id": "714242822149101277",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149101277",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/93/fe/fd/93fefdee1deac3b20732e73e88b915c3.jpg"
-      },
-      {
-        "id": "714242822149101267",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149101267",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/f4/85/49/f48549cd8d73211265dac7eca287924f.jpg"
-      },
-      {
-        "id": "714242822149101258",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149101258",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/33/9b/6c/339b6c3bb105f8d97e1ca160cc1666e3.jpg"
-      },
-      {
-        "id": "714242822149100692",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149100692",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/7e/0c/24/7e0c242e7a8bd50214980b886a79b4f2.jpg"
-      },
-      {
-        "id": "714242822149100681",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149100681",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/93/6a/85/936a855117d9c30e0ca015f7d3f24ea4.jpg"
-      },
-      {
-        "id": "714242822149100668",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149100668",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/6f/e5/22/6fe5221cf5c7fb83b9d5c4ad2c1d739b.jpg"
-      },
-      {
-        "id": "714242822149100658",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149100658",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/3c/15/6d/3c156d1180a940ecbd58ae837a38e685.jpg"
-      },
-      {
-        "id": "649503577527932077",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper649503577527932077",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/f8/c1/6f/f8c16ff409862afc0b32038bb2c49039.jpg"
-      },
-      {
-        "id": "131659989099515311",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper131659989099515311",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/be/6b/2c/be6b2c918ba007c479576d4e8854b774.jpg"
-      },
-      {
-        "id": "384143043228848250",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper384143043228848250",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/7e/3f/18/7e3f18415576ba6ed613d2a72663cd4f.jpg"
-      },
-      {
-        "id": "592012313529434213",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper592012313529434213",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/02/b8/ec/02b8ec92fc022cb081b79f148ca215c2.jpg"
-      },
-      {
-        "id": "464644886567970648",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper464644886567970648",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/01/d7/fc/01d7fc925a4b1203326e4390bbe5a9a8.jpg"
-      },
-      {
-        "id": "852939616944933466",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper852939616944933466",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/88/8d/56/888d56d5504777a8064bc5d34fa0cf8b.jpg"
-      },
-      {
-        "id": "853643304386339341",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper853643304386339341",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/3e/fb/04/3efb042c4ac1dc7c168be6e8f21b0af9.jpg"
-      },
-      {
-        "id": "714242822171467322",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822171467322",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/cb/0e/8a/cb0e8a081bdd851d151989f2cadddd9e.jpg"
-      },
-      {
-        "id": "714242822170033912",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822170033912",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/5f/ce/05/5fce05d8388a8e23608b97db6a2f2192.jpg"
-      },
-      {
-        "id": "714242822151849900",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822151849900",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/37/c8/b4/37c8b40d1ec27c9b85d36841258e320f.jpg"
-      },
-      {
-        "id": "714242822151849894",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822151849894",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/83/f8/a2/83f8a2d2463a2c378c2a71448ccb6f12.jpg"
-      },
-      {
-        "id": "714242822151849869",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822151849869",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/74/bc/6d/74bc6d5fe66b52b28e610afc35dfe636.jpg"
-      },
-      {
-        "id": "714242822151697117",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822151697117",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/3d/ab/e8/3dabe8817bd227a73cdae03aca2da7dc.jpg"
-      },
-      {
-        "id": "714242822151697067",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822151697067",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/e1/c4/2c/e1c42c8f821c21471a0987d2989acf53.jpg"
-      },
-      {
-        "id": "714242822151359451",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822151359451",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/e6/01/ba/e601ba0fd58afae40d0459ec510a9047.jpg"
-      },
-      {
-        "id": "714242822150098949",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822150098949",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/5d/ea/77/5dea770f563c8d13ad374583d948e63a.jpg"
-      },
-      {
-        "id": "714242822150098938",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822150098938",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/75/b0/6c/75b06c718322c78f991d8926ff8cb6b3.jpg"
-      },
-      {
-        "id": "714242822150098895",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822150098895",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/26/97/ac/2697ac51a081c232b54f1d8a56879307.jpg"
-      },
-      {
-        "id": "714242822150098887",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822150098887",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/30/fc/86/30fc8687c8c9d998cc30c14ca27fe100.jpg"
-      },
-      {
-        "id": "714242822150098881",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822150098881",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/ef/db/57/efdb575545c5fba8a35713bb84c191dd.jpg"
-      },
-      {
-        "id": "714242822150098876",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822150098876",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/16/eb/e0/16ebe06ed1be117b010a08eebc71c81c.jpg"
-      },
-      {
-        "id": "714242822150098854",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822150098854",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/18/12/05/1812056ac84d6a070ec16cba3b3e0863.jpg"
-      },
-      {
-        "id": "714242822149867350",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149867350",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/50/00/7b/50007b95062992a385744d13a1a85b64.jpg"
-      },
-      {
-        "id": "714242822149270900",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149270900",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/5a/7a/86/5a7a869c8c19f5caaee57900b2028fc4.jpg"
-      },
-      {
-        "id": "714242822149101280",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149101280",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/6b/48/52/6b48521c11045cdd9b78e594dd922288.jpg"
-      },
-      {
-        "id": "714242822149101277",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149101277",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/85/7d/8d/857d8da42fd2faa66a4aec1f69d105c1.jpg"
-      },
-      {
-        "id": "714242822149101267",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149101267",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/17/32/34/17323434410646cd69c7c6cd4b6ff689.jpg"
-      },
-      {
-        "id": "714242822149101258",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149101258",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/23/a1/1f/23a11fd238cfbd687d849c914b37ebb6.jpg"
-      },
-      {
-        "id": "714242822149100692",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149100692",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/c2/17/98/c21798d0b376205d7ddabd753cbf81e0.jpg"
-      },
-      {
-        "id": "714242822149100681",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149100681",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/18/59/82/18598296ec447bc4bbe1113c49e33436.jpg"
-      },
-      {
-        "id": "714242822149100668",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149100668",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/40/64/98/4064984aa99696945bc963d8d7cff365.jpg"
-      },
-      {
-        "id": "714242822149100658",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149100658",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/9b/7c/e7/9b7ce783e0286adae399a04e8cad7cc3.jpg"
-      },
-      {
-        "id": "358880664069089576",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper358880664069089576",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/bb/bf/3f/bbbf3f33421617967aa393910c2cecc7.jpg"
-      },
-      {
-        "id": "586875395186062912",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper586875395186062912",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/22/93/87/2293876051a32b8fe98c995ec3d65201.jpg"
-      },
-      {
-        "id": "62346776084541613",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper62346776084541613",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/d1/94/f5/d194f54db7740292243400ed5eadec86.jpg"
-      },
-      {
-        "id": "499618152421404401",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper499618152421404401",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/f8/1c/7d/f81c7dc010736b123adf3524a0ebb25d.jpg"
-      },
-      {
-        "id": "585256914095741118",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper585256914095741118",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/71/6e/36/716e36f42303370302a2d414467ae485.jpg"
-      },
-      {
-        "id": "571605377716374282",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper571605377716374282",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/f1/d8/f8/f1d8f8167bf18e185cdf41e56eaf5da0.jpg"
-      },
-      {
-        "id": "714242822171467322",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822171467322",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/e7/c1/6a/e7c16ae71a9f2cb1709c4a108ae5ca83.jpg"
-      },
-      {
-        "id": "714242822170033912",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822170033912",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/6a/7a/42/6a7a4231399b109f7eec2bef87e812d3.jpg"
-      },
-      {
-        "id": "714242822151849900",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822151849900",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/79/97/f7/7997f72b11772095d550ff86488c840d.jpg"
-      },
-      {
-        "id": "714242822151849894",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822151849894",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/57/2d/e7/572de73c0e48a179674a2e80cc002a26.jpg"
-      },
-      {
-        "id": "714242822151849869",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822151849869",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/d8/20/67/d820676340d0dce5e0962dd2f2cb84de.jpg"
-      },
-      {
-        "id": "714242822151697117",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822151697117",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/05/c7/1e/05c71e605bde5f56184e983b36fe624b.jpg"
-      },
-      {
-        "id": "714242822151697067",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822151697067",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/e3/13/d1/e313d1708fc15311499dda1c45ab5087.jpg"
-      },
-      {
-        "id": "714242822151359451",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822151359451",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/77/38/50/77385053884993f352ca095f5a804183.jpg"
-      },
-      {
-        "id": "714242822150098949",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822150098949",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/7b/ec/41/7bec41b9e73d45a53c14dfdc77d6a3ea.jpg"
-      },
-      {
-        "id": "714242822150098938",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822150098938",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/f2/93/9a/f2939aa6f1bff38902b09bcc626434aa.jpg"
-      },
-      {
-        "id": "714242822150098895",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822150098895",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/e4/dd/5c/e4dd5c000987e3dec9495b1d227e9831.jpg"
-      },
-      {
-        "id": "714242822150098887",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822150098887",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/ae/48/e4/ae48e42085adeebd731f9d950ab575cd.jpg"
-      },
-      {
-        "id": "714242822150098881",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822150098881",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/f5/48/cf/f548cf4e90de0e3da14637bcdadcb997.jpg"
-      },
-      {
-        "id": "714242822150098876",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822150098876",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/da/6b/ee/da6beee3383ad0de7959ac5994beb487.jpg"
-      },
-      {
-        "id": "714242822150098854",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822150098854",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/5c/37/09/5c3709423fb53ed449087b9d5e8e14a9.jpg"
-      },
-      {
-        "id": "714242822149867350",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149867350",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/b8/59/00/b8590023d5133fe4f24626604caa6310.jpg"
-      },
-      {
-        "id": "714242822149270900",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149270900",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/be/86/40/be8640f306f809ce6fed36432a7f2820.jpg"
-      },
-      {
-        "id": "714242822149101280",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149101280",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/b8/4e/ba/b84ebaa6715b084fec1e9ed805c92e34.jpg"
-      },
-      {
-        "id": "714242822149101277",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149101277",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/4d/7d/d1/4d7dd11931be6415993bf4e7cc94ff8f.jpg"
-      },
-      {
-        "id": "714242822149101267",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149101267",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/bc/99/5b/bc995b746ce7805dfa8a0bf69729436d.jpg"
-      },
-      {
-        "id": "714242822149101258",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149101258",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/87/69/20/876920b8e2ba7d2d4ea6478f19e55180.jpg"
-      },
-      {
-        "id": "714242822149100692",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149100692",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/89/76/1a/89761afac0a95ae3d54a2fe5cf53d123.jpg"
-      },
-      {
-        "id": "714242822149100681",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149100681",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/17/a3/e7/17a3e7b9a63791e2e1356ecceb8f0cbd.jpg"
-      },
-      {
-        "id": "714242822149100668",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149100668",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/2c/37/30/2c3730962e54846d74b3d0f395ad1aad.jpg"
-      },
-      {
-        "id": "714242822149100658",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822149100658",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/a9/bc/6b/a9bc6bb82a664f8b0d22e167b87a2446.jpg"
-      },
-      {
-        "id": "27795722692716389",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper27795722692716389",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/29/17/86/2917869c6d3502e5b3aa0885a53cbc86.jpg"
-      },
-      {
-        "id": "24769866692117946",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper24769866692117946",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/5c/23/fe/5c23fe37eb38817ab71fd638526eae35.jpg"
-      },
-      {
-        "id": "389913280252701740",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper389913280252701740",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/6d/30/f0/6d30f0fb2e31a7fe1fe2ddbdc7105c53.jpg"
-      },
-      {
-        "id": "361765782578553077",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper361765782578553077",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/55/ad/35/55ad35386a0e806f4383fccaf3e3905d.jpg"
-      },
-      {
-        "id": "79657487151474684",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper79657487151474684",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/18/02/84/18028450e5b90494ec169fb07418f840.jpg"
-      },
-      {
-        "id": "925489792152442896",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper925489792152442896",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/86/f1/4f/86f14fb983fcc46ecaa696d9a3b9acc4.jpg"
-      },
-      {
-        "id": "14214555063601230",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper14214555063601230",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/5b/9b/db/5b9bdb7cfc0646e4b5dfb557326061d4.jpg"
-      },
-      {
-        "id": "714242822171467322",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822171467322",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/5b/3e/2e/5b3e2eed4e49d6681eb4c5625dc34fca.jpg"
-      },
-      {
-        "id": "714242822170033912",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822170033912",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/63/7c/61/637c61aaf7c0ad7e8003b24e0f9c300e.jpg"
-      },
-      {
-        "id": "714242822151849900",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822151849900",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/2b/9e/b8/2b9eb89e7ac0962fbd951eacd125ad80.jpg"
-      },
-      {
-        "id": "714242822151849894",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822151849894",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/a9/83/e9/a983e93b7b123c5a2bc9a77c53b4351c.jpg"
-      },
-      {
-        "id": "714242822151849869",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822151849869",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/40/6b/f6/406bf67f5482123c2557056e74a441a9.jpg"
-      },
-      {
-        "id": "714242822151697117",
-        "name_category": "Lady Pink Wallpaper",
-        "wallpaper_name": "Lady Pink Wallpaper714242822151697117",
-        "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/c5/5a/ce/c55acee86c971bc92d020050c12692c7.jpg"
-      },
-      {
-        "id": "714242822171467322",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822171467322",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/6b/d9/a8/6bd9a81d5381e62954b5e5dbe1cfa600.jpg"
-      },
-      {
-        "id": "714242822170033912",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822170033912",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/24/9c/dc/249cdc9966ccbbf50cdd6b62b53313c2.jpg"
-      },
-      {
-        "id": "714242822151849900",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822151849900",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/dc/1c/03/dc1c03c89d0f6c36996f8de3031a3b8b.jpg"
-      },
-      {
-        "id": "714242822151849894",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822151849894",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/b9/b8/c4/b9b8c492c2c5b2210a7262b8ba8524af.jpg"
-      },
-      {
-        "id": "714242822151849869",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822151849869",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/67/36/06/673606675f21e407a5365383df150060.jpg"
-      },
-      {
-        "id": "714242822151697117",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822151697117",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/03/87/3b/03873b2173beeffcd34f7f00a9e01e81.jpg"
-      },
-      {
-        "id": "714242822151697067",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822151697067",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/ca/19/7c/ca197c4d733a135bc893a70dc6d2f006.jpg"
-      },
-      {
-        "id": "714242822151359451",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822151359451",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/fe/e8/ed/fee8eddcc5bf42523412d511f1e5d130.jpg"
-      },
-      {
-        "id": "714242822150098949",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822150098949",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/97/78/68/977868400d2cbd937d3a9f12ee46e462.jpg"
-      },
-      {
-        "id": "714242822150098938",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822150098938",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/86/16/59/861659dd20feaf7f68627d0c41156501.jpg"
-      },
-      {
-        "id": "714242822150098895",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822150098895",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/93/6a/85/936a855117d9c30e0ca015f7d3f24ea4.jpg"
-      },
-      {
-        "id": "714242822150098887",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822150098887",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/eb/97/bb/eb97bbef7286db866305c2882bab5663.jpg"
-      },
-      {
-        "id": "714242822150098881",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822150098881",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/8a/50/43/8a5043498550374bb1cdee6593b9f9f8.jpg"
-      },
-      {
-        "id": "714242822150098876",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822150098876",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/03/c6/e6/03c6e6a81b4f9769793820d2ce38ab26.jpg"
-      },
-      {
-        "id": "714242822150098854",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822150098854",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/9c/2c/cd/9c2ccda5c3eb51fd7230cb375917763d.jpg"
-      },
-      {
-        "id": "714242822149867350",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822149867350",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/bf/6d/d6/bf6dd686cc51944fb5137faa0ab04b88.jpg"
-      },
-      {
-        "id": "714242822149270900",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822149270900",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/a2/eb/e1/a2ebe12b2338c0a334ff1dd566ad0031.jpg"
-      },
-      {
-        "id": "714242822149101280",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822149101280",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/7a/e3/a1/7ae3a1b3e7a2494bbeda51fc63e4adb4.jpg"
-      },
-      {
-        "id": "714242822149101277",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822149101277",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/be/5e/58/be5e58a9cbc24948fbe48024acb6f767.jpg"
-      },
-      {
-        "id": "714242822149101267",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822149101267",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/3a/3b/55/3a3b558a182b26e1dcd319f8d6026ef0.jpg"
-      },
-      {
-        "id": "714242822149101258",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822149101258",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/37/c8/b4/37c8b40d1ec27c9b85d36841258e320f.jpg"
-      },
-      {
-        "id": "714242822149100692",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822149100692",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/db/c9/f6/dbc9f6e536e0d9b2b2d958055b214f30.jpg"
-      },
-      {
-        "id": "714242822149100681",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822149100681",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/be/44/b0/be44b02f40acdf46ef6206f3af6f35d5.jpg"
-      },
-      {
-        "id": "714242822149100668",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822149100668",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/f1/d1/22/f1d1225df17d47db513cee6efe8a2064.jpg"
-      },
-      {
-        "id": "714242822149100658",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822149100658",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/85/2c/18/852c1810ac22aeb6628dab795990535f.jpg"
-      },
-      {
-        "id": "649503577527932077",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper649503577527932077",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/21/87/d7/2187d72f1ece1860fa6c7b55d85ecb80.jpg"
-      },
-      {
-        "id": "131659989099515311",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper131659989099515311",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/a5/e8/81/a5e881b932224bd705bf16eb7b7ca579.jpg"
-      },
-      {
-        "id": "384143043228848250",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper384143043228848250",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/08/2b/10/082b10ddf4e2e17f3478c44645d72b2a.jpg"
-      },
-      {
-        "id": "592012313529434213",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper592012313529434213",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/be/6b/2c/be6b2c918ba007c479576d4e8854b774.jpg"
-      },
-      {
-        "id": "464644886567970648",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper464644886567970648",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/474x/0f/51/8e/0f518e0995a39eb60fa4aa5ca917b24c.jpg"
-      },
-      {
-        "id": "852939616944933466",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper852939616944933466",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/bb/8d/de/bb8ddeb4cabe63d58f3a8b5453aab0ce.jpg"
-      },
-      {
-        "id": "853643304386339341",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper853643304386339341",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/e6/01/ba/e601ba0fd58afae40d0459ec510a9047.jpg"
-      },
-      {
-        "id": "714242822171467322",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822171467322",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/95/87/a7/9587a72ca4fde005b5e2eb28cf89269e.jpg"
-      },
-      {
-        "id": "714242822170033912",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822170033912",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/c2/26/13/c226138f480bb676499c1dbd02fb7fa8.jpg"
-      },
-      {
-        "id": "714242822151849900",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822151849900",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/ef/e0/26/efe0267016f9538acf0fefc6d42a298e.jpg"
-      },
-      {
-        "id": "714242822151849894",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822151849894",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/8c/db/20/8cdb204ca32122c62ce492702af05532.jpg"
-      },
-      {
-        "id": "714242822151849869",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822151849869",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/ca/e5/18/cae518344942319eebe173a65925a0ff.jpg"
-      },
-      {
-        "id": "714242822151697117",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822151697117",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/7e/3f/18/7e3f18415576ba6ed613d2a72663cd4f.jpg"
-      },
-      {
-        "id": "714242822151697067",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822151697067",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/83/0b/a9/830ba9f4f1b241a67333e4c791d18973.jpg"
-      },
-      {
-        "id": "714242822151359451",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822151359451",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/95/40/54/954054eb37036ada049afa9efe7e6e27.jpg"
-      },
-      {
-        "id": "714242822150098949",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822150098949",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/db/e2/65/dbe265918876bba34ea93cb615c65238.jpg"
-      },
-      {
-        "id": "714242822150098938",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822150098938",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/85/7d/8d/857d8da42fd2faa66a4aec1f69d105c1.jpg"
-      },
-      {
-        "id": "714242822150098895",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822150098895",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/3a/2d/b5/3a2db5932ba5b451afc546edd2a1f628.jpg"
-      },
-      {
-        "id": "714242822150098887",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822150098887",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/f4/85/49/f48549cd8d73211265dac7eca287924f.jpg"
-      },
-      {
-        "id": "714242822150098881",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822150098881",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/1a/5b/7f/1a5b7f4b5c233c5e1dd73ff75733c028.jpg"
-      },
-      {
-        "id": "714242822150098876",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822150098876",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/19/d5/0b/19d50bab6c26955baed4b1c3bf23134d.jpg"
-      },
-      {
-        "id": "714242822150098854",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822150098854",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/85/9c/2d/859c2d6f8db1df0e945638baf5dda410.jpg"
-      },
-      {
-        "id": "714242822149867350",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822149867350",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/18/12/05/1812056ac84d6a070ec16cba3b3e0863.jpg"
-      },
-      {
-        "id": "714242822149270900",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822149270900",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/83/f8/a2/83f8a2d2463a2c378c2a71448ccb6f12.jpg"
-      },
-      {
-        "id": "714242822149101280",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822149101280",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/33/9b/6c/339b6c3bb105f8d97e1ca160cc1666e3.jpg"
-      },
-      {
-        "id": "714242822149101277",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822149101277",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/c7/12/4c/c7124c12550d1f070d8d1cc86b63bd3b.jpg"
-      },
-      {
-        "id": "714242822149101267",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822149101267",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/fc/43/bd/fc43bd5ccccc0327e6cbbb39abd89e3e.jpg"
-      },
-      {
-        "id": "714242822149101258",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822149101258",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/74/bc/6d/74bc6d5fe66b52b28e610afc35dfe636.jpg"
-      },
-      {
-        "id": "714242822149100692",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822149100692",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/8e/5e/2f/8e5e2fa65feae7178028d5e4f6639924.jpg"
-      },
-      {
-        "id": "714242822149100681",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822149100681",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/45/e6/44/45e644915bc5ab1774c2ecc1dd293617.jpg"
-      },
-      {
-        "id": "714242822149100668",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822149100668",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/92/96/56/9296563b51aad63121006faa168851ce.jpg"
-      },
-      {
-        "id": "714242822149100658",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper714242822149100658",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/7d/30/f9/7d30f935d73a2463b62b4dd5a50a23ca.jpg"
-      },
-      {
-        "id": "358880664069089576",
-        "name_category": "Pink Room Wallpaper",
-        "wallpaper_name": "Pink Room Wallpaper358880664069089576",
-        "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
-        "wallpaper_type": "IMAGE",
-        "lock": 0,
-        "wallpaper_url": "https://i.pinimg.com/564x/02/b8/ec/02b8ec92fc022cb081b79f148ca215c2.jpg"
-      }
-    ],
-    "Guide": [
-      {
-        "id": 1,
-        "name_category": "Playstore",
-        "title": "Cara mengisi Form Data Safety",
-        "image": "file:///android_asset/image/guide1.jpg",
-        "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
-        "link": "file:///android_asset/guide/guide1.html"
-      },
-      {
-        "id": 2,
-        "name_category": "Tutorial",
-        "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
-        "image": "file:///android_asset/image/guide2.jpg",
-        "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
-        "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
-      },
-      {
-        "id": 3,
-        "name_category": "Tutorial",
-        "title": "Modul Simpan Json di Hosting dan Google Drive",
-        "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-        "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
-        "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
-      },
-      {
-        "id": 4,
-        "name_category": "Reskin",
-        "title": "Cara menggunakan Alien SDK Ads",
-        "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-        "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-        "link": "file:///android_asset/guide/guide2.html"
-      }
-    ]
-  }
+  ],
+  "Categories": [
+    {
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/564x/be/5e/58/be5e58a9cbc24948fbe48024acb6f767.jpg"
+    },
+    {
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/564x/6b/d9/a8/6bd9a81d5381e62954b5e5dbe1cfa600.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/24/9c/dc/249cdc9966ccbbf50cdd6b62b53313c2.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/be/5e/58/be5e58a9cbc24948fbe48024acb6f767.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/69/57/e3/6957e3af2cfda36cfd806993947d091e.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/0b/0f/bd/0b0fbdc1733cddd373c76bbd2867af41.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/03/c6/e6/03c6e6a81b4f9769793820d2ce38ab26.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/03/87/3b/03873b2173beeffcd34f7f00a9e01e81.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/89/1a/06/891a06e1c59b0b5ae8918fdf3fd09858.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/97/78/68/977868400d2cbd937d3a9f12ee46e462.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/85/9c/2d/859c2d6f8db1df0e945638baf5dda410.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/f1/d1/22/f1d1225df17d47db513cee6efe8a2064.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/67/36/06/673606675f21e407a5365383df150060.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/85/2c/18/852c1810ac22aeb6628dab795990535f.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/95/40/54/954054eb37036ada049afa9efe7e6e27.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/81/e7/a3/81e7a30348e6d1b0e8aa29d35055d998.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/1a/5b/7f/1a5b7f4b5c233c5e1dd73ff75733c028.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/21/87/d7/2187d72f1ece1860fa6c7b55d85ecb80.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/3a/3b/55/3a3b558a182b26e1dcd319f8d6026ef0.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/a5/e8/81/a5e881b932224bd705bf16eb7b7ca579.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/93/fe/fd/93fefdee1deac3b20732e73e88b915c3.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/f4/85/49/f48549cd8d73211265dac7eca287924f.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/33/9b/6c/339b6c3bb105f8d97e1ca160cc1666e3.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/7e/0c/24/7e0c242e7a8bd50214980b886a79b4f2.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/93/6a/85/936a855117d9c30e0ca015f7d3f24ea4.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/6f/e5/22/6fe5221cf5c7fb83b9d5c4ad2c1d739b.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/3c/15/6d/3c156d1180a940ecbd58ae837a38e685.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/f8/c1/6f/f8c16ff409862afc0b32038bb2c49039.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/be/6b/2c/be6b2c918ba007c479576d4e8854b774.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/7e/3f/18/7e3f18415576ba6ed613d2a72663cd4f.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/02/b8/ec/02b8ec92fc022cb081b79f148ca215c2.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/01/d7/fc/01d7fc925a4b1203326e4390bbe5a9a8.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/88/8d/56/888d56d5504777a8064bc5d34fa0cf8b.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/3e/fb/04/3efb042c4ac1dc7c168be6e8f21b0af9.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/cb/0e/8a/cb0e8a081bdd851d151989f2cadddd9e.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/5f/ce/05/5fce05d8388a8e23608b97db6a2f2192.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/37/c8/b4/37c8b40d1ec27c9b85d36841258e320f.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/83/f8/a2/83f8a2d2463a2c378c2a71448ccb6f12.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/74/bc/6d/74bc6d5fe66b52b28e610afc35dfe636.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/3d/ab/e8/3dabe8817bd227a73cdae03aca2da7dc.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/e1/c4/2c/e1c42c8f821c21471a0987d2989acf53.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/e6/01/ba/e601ba0fd58afae40d0459ec510a9047.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/5d/ea/77/5dea770f563c8d13ad374583d948e63a.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/75/b0/6c/75b06c718322c78f991d8926ff8cb6b3.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/26/97/ac/2697ac51a081c232b54f1d8a56879307.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/30/fc/86/30fc8687c8c9d998cc30c14ca27fe100.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/ef/db/57/efdb575545c5fba8a35713bb84c191dd.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/16/eb/e0/16ebe06ed1be117b010a08eebc71c81c.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/18/12/05/1812056ac84d6a070ec16cba3b3e0863.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/50/00/7b/50007b95062992a385744d13a1a85b64.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/5a/7a/86/5a7a869c8c19f5caaee57900b2028fc4.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/6b/48/52/6b48521c11045cdd9b78e594dd922288.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/85/7d/8d/857d8da42fd2faa66a4aec1f69d105c1.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/17/32/34/17323434410646cd69c7c6cd4b6ff689.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/23/a1/1f/23a11fd238cfbd687d849c914b37ebb6.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/c2/17/98/c21798d0b376205d7ddabd753cbf81e0.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/18/59/82/18598296ec447bc4bbe1113c49e33436.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/40/64/98/4064984aa99696945bc963d8d7cff365.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/9b/7c/e7/9b7ce783e0286adae399a04e8cad7cc3.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/bb/bf/3f/bbbf3f33421617967aa393910c2cecc7.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/22/93/87/2293876051a32b8fe98c995ec3d65201.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/d1/94/f5/d194f54db7740292243400ed5eadec86.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/f8/1c/7d/f81c7dc010736b123adf3524a0ebb25d.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/71/6e/36/716e36f42303370302a2d414467ae485.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/f1/d8/f8/f1d8f8167bf18e185cdf41e56eaf5da0.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/e7/c1/6a/e7c16ae71a9f2cb1709c4a108ae5ca83.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/6a/7a/42/6a7a4231399b109f7eec2bef87e812d3.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/79/97/f7/7997f72b11772095d550ff86488c840d.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/57/2d/e7/572de73c0e48a179674a2e80cc002a26.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/d8/20/67/d820676340d0dce5e0962dd2f2cb84de.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/05/c7/1e/05c71e605bde5f56184e983b36fe624b.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/e3/13/d1/e313d1708fc15311499dda1c45ab5087.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/77/38/50/77385053884993f352ca095f5a804183.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/7b/ec/41/7bec41b9e73d45a53c14dfdc77d6a3ea.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/f2/93/9a/f2939aa6f1bff38902b09bcc626434aa.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/e4/dd/5c/e4dd5c000987e3dec9495b1d227e9831.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/ae/48/e4/ae48e42085adeebd731f9d950ab575cd.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/f5/48/cf/f548cf4e90de0e3da14637bcdadcb997.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/da/6b/ee/da6beee3383ad0de7959ac5994beb487.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/5c/37/09/5c3709423fb53ed449087b9d5e8e14a9.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/b8/59/00/b8590023d5133fe4f24626604caa6310.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/be/86/40/be8640f306f809ce6fed36432a7f2820.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/b8/4e/ba/b84ebaa6715b084fec1e9ed805c92e34.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/4d/7d/d1/4d7dd11931be6415993bf4e7cc94ff8f.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/bc/99/5b/bc995b746ce7805dfa8a0bf69729436d.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/87/69/20/876920b8e2ba7d2d4ea6478f19e55180.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/89/76/1a/89761afac0a95ae3d54a2fe5cf53d123.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/17/a3/e7/17a3e7b9a63791e2e1356ecceb8f0cbd.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/2c/37/30/2c3730962e54846d74b3d0f395ad1aad.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/a9/bc/6b/a9bc6bb82a664f8b0d22e167b87a2446.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/29/17/86/2917869c6d3502e5b3aa0885a53cbc86.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/5c/23/fe/5c23fe37eb38817ab71fd638526eae35.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/6d/30/f0/6d30f0fb2e31a7fe1fe2ddbdc7105c53.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/55/ad/35/55ad35386a0e806f4383fccaf3e3905d.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/18/02/84/18028450e5b90494ec169fb07418f840.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/86/f1/4f/86f14fb983fcc46ecaa696d9a3b9acc4.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/5b/9b/db/5b9bdb7cfc0646e4b5dfb557326061d4.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/5b/3e/2e/5b3e2eed4e49d6681eb4c5625dc34fca.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/63/7c/61/637c61aaf7c0ad7e8003b24e0f9c300e.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/2b/9e/b8/2b9eb89e7ac0962fbd951eacd125ad80.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/a9/83/e9/a983e93b7b123c5a2bc9a77c53b4351c.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/40/6b/f6/406bf67f5482123c2557056e74a441a9.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Lady Pink Wallpaper",
+      "wallpaper_name": "Lady Pink Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Lady Pink",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/c5/5a/ce/c55acee86c971bc92d020050c12692c7.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/6b/d9/a8/6bd9a81d5381e62954b5e5dbe1cfa600.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/24/9c/dc/249cdc9966ccbbf50cdd6b62b53313c2.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/dc/1c/03/dc1c03c89d0f6c36996f8de3031a3b8b.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/b9/b8/c4/b9b8c492c2c5b2210a7262b8ba8524af.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/67/36/06/673606675f21e407a5365383df150060.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/03/87/3b/03873b2173beeffcd34f7f00a9e01e81.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/ca/19/7c/ca197c4d733a135bc893a70dc6d2f006.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/fe/e8/ed/fee8eddcc5bf42523412d511f1e5d130.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/97/78/68/977868400d2cbd937d3a9f12ee46e462.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/86/16/59/861659dd20feaf7f68627d0c41156501.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/93/6a/85/936a855117d9c30e0ca015f7d3f24ea4.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/eb/97/bb/eb97bbef7286db866305c2882bab5663.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/8a/50/43/8a5043498550374bb1cdee6593b9f9f8.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/03/c6/e6/03c6e6a81b4f9769793820d2ce38ab26.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/9c/2c/cd/9c2ccda5c3eb51fd7230cb375917763d.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/bf/6d/d6/bf6dd686cc51944fb5137faa0ab04b88.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/a2/eb/e1/a2ebe12b2338c0a334ff1dd566ad0031.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/7a/e3/a1/7ae3a1b3e7a2494bbeda51fc63e4adb4.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/be/5e/58/be5e58a9cbc24948fbe48024acb6f767.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/3a/3b/55/3a3b558a182b26e1dcd319f8d6026ef0.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/37/c8/b4/37c8b40d1ec27c9b85d36841258e320f.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/db/c9/f6/dbc9f6e536e0d9b2b2d958055b214f30.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/be/44/b0/be44b02f40acdf46ef6206f3af6f35d5.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/f1/d1/22/f1d1225df17d47db513cee6efe8a2064.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/85/2c/18/852c1810ac22aeb6628dab795990535f.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/21/87/d7/2187d72f1ece1860fa6c7b55d85ecb80.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/a5/e8/81/a5e881b932224bd705bf16eb7b7ca579.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/08/2b/10/082b10ddf4e2e17f3478c44645d72b2a.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/be/6b/2c/be6b2c918ba007c479576d4e8854b774.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/474x/0f/51/8e/0f518e0995a39eb60fa4aa5ca917b24c.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/bb/8d/de/bb8ddeb4cabe63d58f3a8b5453aab0ce.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/e6/01/ba/e601ba0fd58afae40d0459ec510a9047.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/95/87/a7/9587a72ca4fde005b5e2eb28cf89269e.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/c2/26/13/c226138f480bb676499c1dbd02fb7fa8.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/ef/e0/26/efe0267016f9538acf0fefc6d42a298e.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/8c/db/20/8cdb204ca32122c62ce492702af05532.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/ca/e5/18/cae518344942319eebe173a65925a0ff.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/7e/3f/18/7e3f18415576ba6ed613d2a72663cd4f.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/83/0b/a9/830ba9f4f1b241a67333e4c791d18973.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/95/40/54/954054eb37036ada049afa9efe7e6e27.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/db/e2/65/dbe265918876bba34ea93cb615c65238.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/85/7d/8d/857d8da42fd2faa66a4aec1f69d105c1.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/3a/2d/b5/3a2db5932ba5b451afc546edd2a1f628.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/f4/85/49/f48549cd8d73211265dac7eca287924f.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/1a/5b/7f/1a5b7f4b5c233c5e1dd73ff75733c028.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/19/d5/0b/19d50bab6c26955baed4b1c3bf23134d.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/85/9c/2d/859c2d6f8db1df0e945638baf5dda410.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/18/12/05/1812056ac84d6a070ec16cba3b3e0863.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/83/f8/a2/83f8a2d2463a2c378c2a71448ccb6f12.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/33/9b/6c/339b6c3bb105f8d97e1ca160cc1666e3.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/c7/12/4c/c7124c12550d1f070d8d1cc86b63bd3b.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/fc/43/bd/fc43bd5ccccc0327e6cbbb39abd89e3e.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/74/bc/6d/74bc6d5fe66b52b28e610afc35dfe636.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/8e/5e/2f/8e5e2fa65feae7178028d5e4f6639924.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/45/e6/44/45e644915bc5ab1774c2ecc1dd293617.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/92/96/56/9296563b51aad63121006faa168851ce.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/7d/30/f9/7d30f935d73a2463b62b4dd5a50a23ca.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Pink Room Wallpaper",
+      "wallpaper_name": "Pink Room Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Pink Room",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/02/b8/ec/02b8ec92fc022cb081b79f148ca215c2.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Jojoy Toca Boca",
+      "title": "How to play Toca Life World with friends Online ",
+      "image": "https://mytruko.com/wp-content/uploads/Como-jugar-Toca-Life-World-con-amigos-Online-1024x576.jpeg",
+      "description": "To make your gaming experience even more fun",
+      "link": "<p>To make your gaming experience even more fun, we want to teach you how to play Toca Life World with friends Online.</p>\n<p>To play<strong>Toca Life world</strong>It's a lot of fun, but if you add to that, playing with friends, the fun is even greater. So you have to read this complete article, you will be surprised by the information that we bring you.</p>\n<figure><img decoding=\"async\" width=\"1024\" height=\"576\" src=\"https://mytruko.com/wp-content/uploads/Como-jugar-Toca-Life-World-con-amigos-Online-1024x576.jpeg\" alt=\"How to play Toca Life World with friends Online\" title=\"How to play Toca Life World with Friends Online 1\" data-src=\"https://mytruko.com/wp-content/uploads/Como-jugar-Toca-Life-World-con-amigos-Online-1024x576.jpeg\" data-srcset=\"https://mytruko.com/wp-content/uploads/Como-jugar-Toca-Life-World-con-amigos-Online-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Como-jugar-Toca-Life-World-con-amigos-Online-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Como-jugar-Toca-Life-World-con-amigos-Online-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Como-jugar-Toca-Life-World-con-amigos-Online.jpeg 1280w\" data-sizes=\"(max-width: 1024px) 100vw, 1024px\" data-ll-status=\"loaded\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://mytruko.com/wp-content/uploads/Como-jugar-Toca-Life-World-con-amigos-Online-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Como-jugar-Toca-Life-World-con-amigos-Online-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Como-jugar-Toca-Life-World-con-amigos-Online-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Como-jugar-Toca-Life-World-con-amigos-Online.jpeg 1280w\" />\n<figcaption>How to play Toca Life World with friends Online</figcaption>\n</figure>\n<h2>How to play Toca Life World with friends Online</h2>\n<div><ins data-ad-client=\"ca-pub-2623043768734233\" data-ad-slot=\"6303642175\" data-ad-format=\"auto\" data-full-width-responsive=\"true\" data-adsbygoogle-status=\"done\" data-ad-status=\"filled\"> </ins></div>\n<p>Toca Life is World is an excellent application for children from 6 years of age, and even for adults. Within this incredible universe, you can create your own world, letting your imagination run wild. Thus enhancing your creativity and extraordinary skills.</p>\n<p>Notably Toca Life World, is considered a mega application, and it is that it contains all the titles of Toca Life. Which allows you to enjoy City, Office, Kitchen, Vacation and all the others, in a single title.</p>\n<p>Within Toca Life World you can put all your capabilities to the limit, producing stories with your avatars. That is, with characters created by yourself. Which you can even customize.</p>\n<p>It is important to note that Toca Life World is known for concentrating the imagination of children by showing them in some way what the world is like. And it is that you will not be alone in this world, because you will be accompanied by a large number of avatars, with whom you can play.</p>\n<p>Now do you want to play Toca Life World with your friends Online? Sure you can. In fact, you have several alternatives that can be very useful. If you want to play with your friends, you can open Game Center and select the option to add friends. There you must enter the phone number or email of the friends with whom you want to play and that's it. Surely you have many friends to invite to be part of your stories.</p>\n<p>Now that you know how to play Toca Life World with friends Online, then get ready to spend hours having fun. And the best thing is that you will no longer play alone. You just have to enter Toca Life World and live new fun adventures with your friends. Exploring new locations, where you can create extraordinary stories.</p>"
+    },
+    {
+      "id": 2,
+      "name_category": "Jojoy Toca Boca",
+      "title": "How to Change House in Toca Boca",
+      "image": "https://mytruko.com/wp-content/uploads/Co%CC%81mo-Cambiar-de-Casa-en-Toca-Boca-1024x576.jpeg",
+      "description": "If you are already a mod veteran,",
+      "link": "<h1 itemprop=\"headline\">How to Change House in Toca Boca</h1>\n<p>En<strong>Toca Boca</strong>each of the players has the option of being able to acquire a house and even change it when they are no longer comfortable, because they want to have a larger space. The game offers excellent real estate alternatives such as the Bohemian House, the Misty House and the Apartment Block.</p>\n<p>Depending on how you're progressing through the game, you'll want to do a house swap at Toca Life, to achieve that space you require and we will tell you how you can make the change of home.</p>\n<p>The world of<strong>Toca Boca</strong>is in constant evolution and growth, updating itself with new characters, new locations, objects, which is why the concern arises that each user is renewing himself adapting to all the changes that occur in the game. This is where the need to look for a house with a larger space is born.</p>\n<figure><img decoding=\"async\" width=\"1024\" height=\"576\" src=\"https://mytruko.com/wp-content/uploads/Co%CC%81mo-Cambiar-de-Casa-en-Toca-Boca-1024x576.jpeg\" alt=\"How to Change House in Toca Boca\" title=\"How to Change House in Toca Mouth 1\" data-src=\"https://mytruko.com/wp-content/uploads/Cómo-Cambiar-de-Casa-en-Toca-Boca-1024x576.jpeg\" data-srcset=\"https://mytruko.com/wp-content/uploads/Cómo-Cambiar-de-Casa-en-Toca-Boca-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Cómo-Cambiar-de-Casa-en-Toca-Boca-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Cómo-Cambiar-de-Casa-en-Toca-Boca-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Cómo-Cambiar-de-Casa-en-Toca-Boca.jpeg 1280w\" data-sizes=\"(max-width: 1024px) 100vw, 1024px\" data-ll-status=\"loaded\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://mytruko.com/wp-content/uploads/Cómo-Cambiar-de-Casa-en-Toca-Boca-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Cómo-Cambiar-de-Casa-en-Toca-Boca-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Cómo-Cambiar-de-Casa-en-Toca-Boca-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Cómo-Cambiar-de-Casa-en-Toca-Boca.jpeg 1280w\" />\n<figcaption>How to Change House in Toca Boca</figcaption>\n</figure>\n<h2>How to change your house for a larger one</h2>\n<div></div>\n<div>\n<div>Since you start in the game, you become the owner of a house with a free but very basic pack, to which you can make certain improvements in appearance but not in size.</div>\n</div>\n<p>&nbsp;The new places that arise give users the opportunity to Toca Boca to do everything to have the dream house in unique places that you can also decorate according to the style you prefer. The possibilities are endless.</p>\n<p>It is there where you see the need to buy other packs that allow you to have better space in your home in a better area. These structures have a space that exceeds the standard size of a common house, allowing the avatar to have the objects they want comfortably.</p>\n<h2>How to get your new house in Toca Boca</h2>\n<div></div>\n<p>En Toca Boca Getting a house according to the trend of your style does not represent a difficulty. It is extremely simple and you can build your house with the characteristics you prefer. To purchase your new home along with the furniture and accessories, you must purchase the Pack together with its respective location.</p>\n<p>And to obtain the house, you must go to the green shopping cart, locate the new house in which you want to live and make the purchase following the steps that are indicated, and in just minutes you are the new owner of the housing structure. .</p>\n<p>Don't limit yourself and keep growing as you go<strong>Toca Life</strong>and get, among other things, your favorite house just by following the recommendations given.</p>"
+    },
+    {
+      "id": 3,
+      "name_category": "Jojoy Toca Boca",
+      "title": "How to download Toca Life World on PC",
+      "image": "https://mytruko.com/wp-content/uploads/Co%CC%81mo-Descargar-Toca-Life-World-en-Pc-1024x576.jpeg",
+      "description": "If you are already a mod veteran,",
+      "link": "<h1 itemprop=\"headline\">How to download Toca Life World on PC</h1>\n<p>There are many video games designed for Android that make their users want to have a PC version, and one of them is Toca LifeWorld. Because<strong>is intended exclusively for this operating system</strong>, it is difficult to get a desktop version, but it is not impossible.</p>\n<p>So you can see that everything has a solution, we teach you<strong>how to downloadToca Life worldon PC</strong>using an effective method.</p>\n<figure><img decoding=\"async\" width=\"1024\" height=\"576\" src=\"https://mytruko.com/wp-content/uploads/Co%CC%81mo-Descargar-Toca-Life-World-en-Pc-1024x576.jpeg\" alt=\"How to download Toca Life World on PC\" title=\"How to download Toca Life World on PC 1\" data-src=\"https://mytruko.com/wp-content/uploads/Cómo-Descargar-Toca-Life-World-en-Pc-1024x576.jpeg\" data-srcset=\"https://mytruko.com/wp-content/uploads/Cómo-Descargar-Toca-Life-World-en-Pc-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Cómo-Descargar-Toca-Life-World-en-Pc-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Cómo-Descargar-Toca-Life-World-en-Pc-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Cómo-Descargar-Toca-Life-World-en-Pc.jpeg 1280w\" data-sizes=\"(max-width: 1024px) 100vw, 1024px\" data-ll-status=\"loaded\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://mytruko.com/wp-content/uploads/Cómo-Descargar-Toca-Life-World-en-Pc-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Cómo-Descargar-Toca-Life-World-en-Pc-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Cómo-Descargar-Toca-Life-World-en-Pc-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Cómo-Descargar-Toca-Life-World-en-Pc.jpeg 1280w\" />\n<figcaption>How to download Toca Life World on PC</figcaption>\n</figure>\n<h2>How to download Toca Life World on PC: Easy and Fast</h2>\n<p>There are a series of tricks that allow you to use different applications on your PC, even if the desktop version of the program is not available. Thanks to them you can use a video game on your computer<strong>just as you would use it on your mobile device without inconvenience</strong>.</p>\n<p>Like other games, Toca Life world<strong>can only be developed on Android OS</strong>, but there are emulators that will help you do it on your PC. There are several programs of this type, but below we will show you the two most reliable and popular:</p>\n<h3>Play Toca Life World with Bluestacks</h3>\n<p>Bluestacks is a very functional Android emulator that<strong>allows you to run any application on your computer</strong>. To download the game using this program, you must follow this process:</p>\n<ol type=\"1\">\n<li>Download and install Bluestacks on your PC, and then launch it.</li>\n<li>Wait patiently until you can see the home screen of the emulator.</li>\n<li>In it, search for Google Play Store, and double-click on the icon to open the store.</li>\n<li>In the search engine write Toca Life World and search for the app.</li>\n<li>When you find it, press the &ldquo;Install&rdquo; icon, which will start the installation of the game on your PC.</li>\n</ol>\n<p>Then you only have to search for the game among the installed applications, do<strong>double click on it and start using it on your computer</strong>.</p>\n<h3>Play Toca Life World with MEmu Play</h3>\n<p>This software is designed exclusively for gaming, and<strong>It is characterized by being flexible and very fast.</strong>. With this emulator, the game installation steps are as follows:</p>\n<ol type=\"1\">\n<li>Download MEmu Play on your PC and install it from its official website.</li>\n<li>Open the emulator once installed and search for the Google Play Store Game from the home screen of the app, by double clicking on it.</li>\n<li>In the store, look for Toca Life World and make sure you find the official game developed by Toca Boca, and press the &ldquo;Install&rdquo; button.</li>\n<li>After installation, search Toca Life World in the emulator and start playing it just like you do on your mobile.</li>\n</ol>"
+    },
+    {
+      "id": 4,
+      "name_category": "Jojoy Toca Boca",
+      "title": "Foods you can make in Toca Boca",
+      "image": "https://mytruko.com/wp-content/uploads/Comidas-que-Pueden-Hacer-en-Toca-Boca-1024x576.jpeg",
+      "description": "If you are already a mod veteran,",
+      "link": "<h1 itemprop=\"headline\">Foods you can make in Toca Boca</h1>\n<nav aria-label=\"breadcrumbs\">\n<p><strong>Toca Life world</strong>is an application created especially for children over 6 years old, in which they can develop all their imagination by putting their creativity into practice to make their own world and represent the stories in a digital universe. Among the innovations that this spectacular game presents, each character can become a chef, in which they can prepare exquisite recipes.</p>\n<p>Decide the lifestyle you want to lead your avatar within<strong>Toca Life world,</strong>That includes eating habits. But keep in mind that there are ingredients that are somewhat difficult to obtain, and the way to achieve this is to answer the questions that are being asked on the networks.</p>\n<p>In order to cook, the player must go out in search of the ingredients within the community, and these can be found by shape, size and essences. It also has a recipe book that adapts to the user's taste that teaches how to prepare from simple dishes to special meals such as vegan ones.</p>\n<figure><img decoding=\"async\" width=\"1024\" height=\"576\" src=\"https://mytruko.com/wp-content/uploads/Comidas-que-Pueden-Hacer-en-Toca-Boca-1024x576.jpeg\" alt=\"Foods you can make in Toca Boca\" title=\"Foods you can make in Toca Mouth 1\" data-src=\"https://mytruko.com/wp-content/uploads/Comidas-que-Pueden-Hacer-en-Toca-Boca-1024x576.jpeg\" data-srcset=\"https://mytruko.com/wp-content/uploads/Comidas-que-Pueden-Hacer-en-Toca-Boca-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Comidas-que-Pueden-Hacer-en-Toca-Boca-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Comidas-que-Pueden-Hacer-en-Toca-Boca-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Comidas-que-Pueden-Hacer-en-Toca-Boca.jpeg 1280w\" data-sizes=\"(max-width: 1024px) 100vw, 1024px\" data-ll-status=\"loaded\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://mytruko.com/wp-content/uploads/Comidas-que-Pueden-Hacer-en-Toca-Boca-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Comidas-que-Pueden-Hacer-en-Toca-Boca-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Comidas-que-Pueden-Hacer-en-Toca-Boca-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Comidas-que-Pueden-Hacer-en-Toca-Boca.jpeg 1280w\" />\n<figcaption>Foods you can make in Toca Boca</figcaption>\n</figure>\n<h2>The foods you can prepare in Toca Life world</h2>\n<p><strong>Toca Mouth,</strong>It has an extensive recipe book available to the players and that adapts to all tastes. In this book you will find the instructions that will guide you to prepare dishes such as:</p>\n<ul>\n<li>you need to have for its preparation a steak and potatoes.</li>\n<li>the noodles are combined with any type of meat, seafood, fish or even tofu, without missing the cheese in the preparation.</li>\n<li>You can choose between the varieties of bread and red or white meats, and add legumes and dairy products such as tomato and cheese.</li>\n<li>You just have to have bread and sausage to make the recipe.</li>\n<li>it is the most popular preparationof the community<strong>Toca Life world</strong>and it only requires rice and a large fish.</li>\n<li>To prepare this meal, you need a package of tofu and a package of pasta, and you already have these ingredients in the game's kitchen.</li>\n<li>It comes in two versions, alone or you can combine them with cheese.</li>\n<li>you need for this exotic recipe small fish and potatoes cut into pieces.</li>\n<li>you must have the pizza base package, plus tomatoes, cheese, sausage, hot pepper and mushrooms. If you want it to be a vegetarian pizza, you just use the tortilla and the tomato.</li>\n<li>its ingredients are variable, you can use for its preparation, red meats, fish, raw chicken, tofu and even sausages.</li>\n</ul>\n</nav>"
+    },
+    {
+      "id": 5,
+      "name_category": "Jojoy Toca Boca",
+      "title": "how to fix up a mansion Toca Boca",
+      "image": "https://mytruko.com/wp-content/uploads/Co%CC%81mo-Arreglar-una-Mansio%CC%81n-de-Toca-Boca.jpeg",
+      "description": "If you are already a mod veteran,",
+      "link": "<h1 itemprop=\"headline\">how to fix up a mansion Toca Boca</h1>\n<p>If something characterizes the platform of<strong>Toca Mouth,</strong>is that the creators of the game have taken great care to care for and provide content, where the little ones can develop activities that provide fun and creativity in various spaces within the community.</p>\n<p>And part of these spaces consist of properties ranging from small houses to huge mansions that players can acquire to fix them up, improving their appearance by decorating them, giving them the personal touch they prefer. Turn your home into a brilliantly luxurious mansion, and flaunt the life of a millionaire in the community<strong>Toca Boca.</strong></p>\n<figure><img decoding=\"async\" width=\"1024\" height=\"576\" src=\"https://mytruko.com/wp-content/uploads/Co%CC%81mo-Arreglar-una-Mansio%CC%81n-de-Toca-Boca-1024x576.jpeg\" alt=\"how to fix up a mansion Toca Boca\" title=\"how to fix up a mansion Toca Mouth 1\" data-src=\"https://mytruko.com/wp-content/uploads/Cómo-Arreglar-una-Mansión-de-Toca-Boca-1024x576.jpeg\" data-srcset=\"https://mytruko.com/wp-content/uploads/Cómo-Arreglar-una-Mansión-de-Toca-Boca-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Cómo-Arreglar-una-Mansión-de-Toca-Boca-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Cómo-Arreglar-una-Mansión-de-Toca-Boca-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Cómo-Arreglar-una-Mansión-de-Toca-Boca.jpeg 1280w\" data-sizes=\"(max-width: 1024px) 100vw, 1024px\" data-ll-status=\"loaded\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://mytruko.com/wp-content/uploads/Cómo-Arreglar-una-Mansión-de-Toca-Boca-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Cómo-Arreglar-una-Mansión-de-Toca-Boca-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Cómo-Arreglar-una-Mansión-de-Toca-Boca-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Cómo-Arreglar-una-Mansión-de-Toca-Boca.jpeg 1280w\" />\n<figcaption>how to fix up a mansion Toca Boca</figcaption>\n</figure>\n<h2>Give your personal touch to your mansion in Toca Life</h2>\n<p>One of the funniest and most entertaining things in the world of<strong>Toca Boca</strong>is to fix and decorate your property according to your tastes and creativity. This is why you need a series of tips and recommendations on how to fix a mansion in<strong>Toca Life</strong>and be able to decorate it according to your style.</p>\n<p>Enjoy this activity spending your time in the game to unleash your imagination and create the best environments in your mansion, use furniture and accessories that highlight the beauty of your home.</p>\n<h2>how to fix up a mansion Toca Boca</h2>\n<div><ins data-ad-client=\"ca-pub-2623043768734233\" data-ad-slot=\"6303642175\" data-ad-format=\"auto\" data-full-width-responsive=\"true\" data-adsbygoogle-status=\"done\" data-ad-status=\"unfilled\"> </ins></div>\n<p>When you already own a mansion, which you acquired by following the instructions once you enter thislink, and that you have placed it in the place of your choice, you proceed to arrange the multiple rooms of your modern mansion, but keep in mind that you will need money to acquire the accessories and furniture required for this purpose.</p>\n<p>There are many alternatives that you can take into account for the decoration of your mansion, as there are properties that include &ldquo;<em>a pack&rdquo;</em>that allows you to personalize it, changing or considering them according to your criteria. However, each structure has a theme, so each room revolves around the concept of space. Despite this, you decide what accessories and furniture to leave, what to replace or what to remove to achieve the goal of improving your mansion in the community.<strong>Toca Life.</strong></p>"
+    },
+    {
+      "id": 6,
+      "name_category": "Jojoy Toca Boca",
+      "title": "How to Open the Octopus Toca Life Vacation",
+      "image": "https://mytruko.com/wp-content/uploads/Como-Abrir-el-Pulpo-de-Toca-Life-Vacation.jpeg",
+      "description": "If you are already a mod veteran,",
+      "link": "<h1 itemprop=\"headline\">How to Open the Octopus Toca Life Vacation</h1>\n<p><strong>Toca Life Vacation</strong>is an exclusive platform where the most varied game worlds are concentrated that does not limit its users to create and have fun in which you can create your own stories and go in search of challenges to discover mysterious treasures in this universe of<strong>Toca Mouth.</strong></p>\n<p>As in all multiplayer games, each avatar will find endless surprises and will have to solve the mysteries that lie within the universe of Toca Mouth. Each event that is presented to the players generates fun and an increase in adrenaline. Among these mysteries to be solved and that many want to know is how<strong>Open the Octopus in</strong><strong>Toca Life Vacation.</strong></p>\n<figure><img decoding=\"async\" width=\"1024\" height=\"576\" src=\"https://mytruko.com/wp-content/uploads/Como-Abrir-el-Pulpo-de-Toca-Life-Vacation-1024x576.jpeg\" alt=\"How to Open the Octopus Toca Life Vacation\" title=\"How to Open the Octopus Toca Life Vacation 1\" data-src=\"https://mytruko.com/wp-content/uploads/Como-Abrir-el-Pulpo-de-Toca-Life-Vacation-1024x576.jpeg\" data-srcset=\"https://mytruko.com/wp-content/uploads/Como-Abrir-el-Pulpo-de-Toca-Life-Vacation-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Como-Abrir-el-Pulpo-de-Toca-Life-Vacation-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Como-Abrir-el-Pulpo-de-Toca-Life-Vacation-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Como-Abrir-el-Pulpo-de-Toca-Life-Vacation.jpeg 1280w\" data-sizes=\"(max-width: 1024px) 100vw, 1024px\" data-ll-status=\"loaded\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://mytruko.com/wp-content/uploads/Como-Abrir-el-Pulpo-de-Toca-Life-Vacation-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Como-Abrir-el-Pulpo-de-Toca-Life-Vacation-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Como-Abrir-el-Pulpo-de-Toca-Life-Vacation-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Como-Abrir-el-Pulpo-de-Toca-Life-Vacation.jpeg 1280w\" />\n<figcaption>How to Open the Octopus Toca Life Vacation</figcaption>\n</figure>\n<h2>What is Octopus in Toca Life Vacation?</h2>\n<p><strong>En Toca LifeVacation,</strong>There is a statue located on the game map known as \"The Octopus\". This piece has been of great interest to all players in the universe toca mouth, since it arouses curiosity by discovering what it contains inside. This great secret can be revealed when trying to open the image, for which you need to follow some recommendations to achieve it.</p>\n<h2>How to Open the Octopus Toca Life Vacation</h2>\n<div><ins data-ad-client=\"ca-pub-2623043768734233\" data-ad-slot=\"6303642175\" data-ad-format=\"auto\" data-full-width-responsive=\"true\" data-adsbygoogle-status=\"done\" data-ad-status=\"unfilled\"> </ins></div>\n<ul>\n<li>To achieve the objective of this challenge that is presented to you within Toca Boca, you have to correctly complete the following steps:</li>\n<li>First of all you must locate the Octopus on the game map to start the mission. Once you have located it and reached it, continue with the following sequence to open the octopus.</li>\n<li>Tocar on two occasions one of the two tentacles that glow and are located on the left side of the octopus.</li>\n<li>Then visualize the ice cream that the octopus is holding, approach it and press twice</li>\n<li>In another of its tentacles it is holding a hot dog which you must tocar also twice.</li>\n</ul>\n<h2>Treasure content inside the Octopus</h2>\n<div><ins data-ad-client=\"ca-pub-2623043768734233\" data-ad-slot=\"6303642175\" data-ad-format=\"auto\" data-full-width-responsive=\"true\" data-adsbygoogle-status=\"done\" data-ad-status=\"unfilled\"> </ins></div>\n<p>Once you have followed these instructions, you only have to wait a few seconds until the octopus's head slowly opens completely and you can discover the hidden treasure to be able to appropriate it.</p>\n<p>Its content is a secret. To make it much more fun, we invite you to discover it for yourself, you just have to get going, rest assured that incredible, unique and incomparable gifts await you at<strong>Open Octopus Toca LifeVacation.</strong></p>"
+    },
+    {
+      "id": 7,
+      "name_category": "Jojoy Toca Boca",
+      "title": "How to Buy Things in Toca Boca",
+      "image": "https://mytruko.com/wp-content/uploads/Co%CC%81mo-Comprar-Cosas-en-Toca-Boca.jpeg",
+      "description": "If you are already a mod veteran,",
+      "link": "<h1 itemprop=\"headline\">How to Buy Things in Toca Boca</h1>\n<p>If you are starting as a player in<strong>Toca lifeworld,</strong>and you do not know how to buy things in the game, here we will teach you how to acquire objects and accessories that you want to own within the great community of Toca Mouth.</p>\n<p>One of the easiest things you find in the game is to buy things that in turn give you many benefits when you get them. in the world of Toca Boca you can buy what you want even when you are a minor if you have the prior authorization of your parents or representatives. It is so simple that you can do it without help. It's time to learn how to shop for things in<strong>Toca Life world.</strong></p>\n<figure><img decoding=\"async\" width=\"1024\" height=\"576\" src=\"https://mytruko.com/wp-content/uploads/Co%CC%81mo-Comprar-Cosas-en-Toca-Boca-1024x576.jpeg\" alt=\"How to Buy Things in Toca Boca\" title=\"How to Buy Things in Toca Mouth 1\" data-src=\"https://mytruko.com/wp-content/uploads/Cómo-Comprar-Cosas-en-Toca-Boca-1024x576.jpeg\" data-srcset=\"https://mytruko.com/wp-content/uploads/Cómo-Comprar-Cosas-en-Toca-Boca-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-Cosas-en-Toca-Boca-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-Cosas-en-Toca-Boca-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-Cosas-en-Toca-Boca.jpeg 1280w\" data-sizes=\"(max-width: 1024px) 100vw, 1024px\" data-ll-status=\"loaded\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://mytruko.com/wp-content/uploads/Cómo-Comprar-Cosas-en-Toca-Boca-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-Cosas-en-Toca-Boca-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-Cosas-en-Toca-Boca-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-Cosas-en-Toca-Boca.jpeg 1280w\" />\n<figcaption>How to Buy Things in Toca Boca</figcaption>\n</figure>\n<h2>How to Buy Things in Toca Boca</h2>\n<div><ins data-ad-client=\"ca-pub-2623043768734233\" data-ad-slot=\"6303642175\" data-ad-format=\"auto\" data-full-width-responsive=\"true\" data-adsbygoogle-status=\"done\" data-ad-status=\"unfilled\">\n<div title=\"Advertisement\" aria-label=\"Advertisement\" tabindex=\"0\"></div>\n</ins></div>\n<p>Making purchases in this spectacular game is not complicated at all, you only need to select the object that you want to have among your belongings, to have access to the content available for purchase. To make purchases of things it is important to follow the following indications that we suggest below:</p>\n<ul>\n<li>As a first step you must enter the game<strong>Toca lifeworld,</strong>In the upper left corner there is a green shopping cart that you must click on.</li>\n<li>A list of the store is immediately displayed with the content of all the things available for sale in Toca Mouth.</li>\n<li>Proceed to select the item of your choice that you want to purchase. Proceed to click on &ldquo;Buy&rdquo;.</li>\n<li>You must validate the process by placing the data with the date of birth of the person who is going to pay for the item and enter the username and password or fingerprint.</li>\n<li>Once the process has been validated, you complete the purchase operation, and you already have the object to be able to enjoy it because it is already part of your belongings.</li>\n</ul>\n<p>Without complications, the player can acquire anything just by completing this purchase procedure in<strong>Toca Mouth.</strong></p>"
+    },
+    {
+      "id": 8,
+      "name_category": "Jojoy Toca Boca",
+      "title": "How to Buy a House in Toca Life world",
+      "image": "https://mytruko.com/wp-content/uploads/Co%CC%81mo-Comprar-una-Casa-en-Toca-Life-World.jpeg",
+      "description": "If you are already a mod veteran,",
+      "link": "<h1 itemprop=\"headline\">How to Buy a House in Toca Life world</h1>\n<nav aria-label=\"breadcrumbs\">\n<p>Since you join as a frequent player of the community<strong>Toca Life world,</strong>you can realize that the houses are fundamental pieces within the video game. One of the first properties that you acquire from the beginning is a free pack of a standard house that comes with the furniture and basic objects to make it your main home.</p>\n<p>These houses can be located in new areas that are constantly being created, so the location of the houses does not represent any inconvenience when choosing the place where you want to locate a real estate structure. And if there is something you can do in your new home, it is that you can choose the style and you can decorate it to your liking.</p>\n<figure><img decoding=\"async\" width=\"1024\" height=\"576\" src=\"https://mytruko.com/wp-content/uploads/Co%CC%81mo-Comprar-una-Casa-en-Toca-Life-World-1024x576.jpeg\" alt=\"How to Buy a House in Toca Life world\" title=\"How to Buy a House in Toca life world 1\" data-src=\"https://mytruko.com/wp-content/uploads/Cómo-Comprar-una-Casa-en-Toca-Life-World-1024x576.jpeg\" data-srcset=\"https://mytruko.com/wp-content/uploads/Cómo-Comprar-una-Casa-en-Toca-Life-World-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-una-Casa-en-Toca-Life-World-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-una-Casa-en-Toca-Life-World-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-una-Casa-en-Toca-Life-World.jpeg 1280w\" data-sizes=\"(max-width: 1024px) 100vw, 1024px\" data-ll-status=\"loaded\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://mytruko.com/wp-content/uploads/Cómo-Comprar-una-Casa-en-Toca-Life-World-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-una-Casa-en-Toca-Life-World-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-una-Casa-en-Toca-Life-World-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-una-Casa-en-Toca-Life-World.jpeg 1280w\" />\n<figcaption>How to Buy a House in Toca Life world</figcaption>\n</figure>\n<h2>Where can I buy a residential property in Toca Life?</h2>\n<p>In order for a user to acquire a property, they must go to the website of<strong>Toca lifeworld,</strong>and enter as usual to start playing. Once inside the game, the search for the point where you want to have your new house begins. At the bottom, centered, there is an icon in the shape of a blue hammer, which you must click to show you the spaces to choose to place the new house. Each place has a plus sign next to it<strong><em>\"+\"</em>.</strong></p>\n<h2>How to buy a house in Toca LifeWorld?</h2>\n<div><ins data-ad-client=\"ca-pub-2623043768734233\" data-ad-slot=\"6303642175\" data-ad-format=\"auto\" data-full-width-responsive=\"true\" data-adsbygoogle-status=\"done\" data-ad-status=\"unfilled\"> </ins></div>\n<p>pressing the sign<strong><em>\"+\"</em></strong>in the place where you want to locate your house in<strong>Toca Life</strong>, is displayed on the right side in the store, the option<em>&ldquo;Discover new things&rdquo;,</em>with a list of the models of houses built. Press and wait for it to load to show you the houses, select the one you like on the green button<strong><em>\"+\"</em></strong><em>,</em>and click on<em>\"To buy\".</em>To finalize the purchase of the house you must enter the date of birth of the person who will make the payment to complete the successful acquisition of your new residence.</p>\n<p>After purchase. Go to the place you selected to locate the house. Click on the blue hammer with the description<em>&ldquo;new items available&rdquo;, select</em>and press the buttons the property&nbsp;<strong><em>\"+\"</em></strong>y<em>\"Build\",</em>construction of the house will begin immediately, and when it is ready you can enter to give it your personal touch and show it to everyone.</p>\n</nav>"
+    },
+    {
+      "id": 9,
+      "name_category": "Jojoy Toca Boca",
+      "title": "How to Buy Houses in Toca Life world",
+      "image": "https://mytruko.com/wp-content/uploads/Co%CC%81mo-Comprar-Casas-en-Toca-Life-World.jpeg",
+      "description": "If you are already a mod veteran,",
+      "link": "<h1 itemprop=\"headline\">How to Buy Houses in Toca Life world</h1>\n<p>En<strong>Toca Life world</strong><strong>,</strong>the houses are representative and essential in the game, because since the users enter the community they start by having a free property and then additionally acquire other larger houses that give greater benefits within the game.</p>\n<p>The way you have to be able to acquire a new home you must enter the game \"<strong>Toca Life world\",</strong>direct you to where you want your new home to be located. Once there, at the bottom, towards the center of the screen, a blue hammer-shaped icon appears, which you must click and immediately several sites marked with the sign will be displayed.<strong><em>\"+\"</em></strong>, so that you choose the location site to place your property.</p>\n<figure><img decoding=\"async\" width=\"1024\" height=\"576\" src=\"https://mytruko.com/wp-content/uploads/Co%CC%81mo-Comprar-Casas-en-Toca-Life-World-1024x576.jpeg\" alt=\"How to Buy Houses in Toca Life world\" title=\"How to Buy Houses in Toca life world 1\" data-src=\"https://mytruko.com/wp-content/uploads/Cómo-Comprar-Casas-en-Toca-Life-World-1024x576.jpeg\" data-srcset=\"https://mytruko.com/wp-content/uploads/Cómo-Comprar-Casas-en-Toca-Life-World-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-Casas-en-Toca-Life-World-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-Casas-en-Toca-Life-World-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-Casas-en-Toca-Life-World.jpeg 1280w\" data-sizes=\"(max-width: 1024px) 100vw, 1024px\" data-ll-status=\"loaded\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://mytruko.com/wp-content/uploads/Cómo-Comprar-Casas-en-Toca-Life-World-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-Casas-en-Toca-Life-World-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-Casas-en-Toca-Life-World-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-Casas-en-Toca-Life-World.jpeg 1280w\" />\n<figcaption>How to Buy Houses in Toca Life world</figcaption>\n</figure>\n<h2>How to Buy Houses in Toca Life world</h2>\n<div><ins data-ad-client=\"ca-pub-2623043768734233\" data-ad-slot=\"6303642175\" data-ad-format=\"auto\" data-full-width-responsive=\"true\" data-adsbygoogle-status=\"done\" data-ad-status=\"unfilled\"> </ins></div>\n<p>Continuing with the process mentioned above, select the button<strong><em>\"+\"</em></strong>and a kind of list of the houses that you have previously built will be displayed. There scroll to the right side until the option<em>\"Store\"</em> and click on &ldquo;discover new homes&rdquo;. When loading, go in search of the one you like the most, select the green button of<strong><em>\"+\"</em></strong>to execute the purchase. Later, we enter the date of birth and the password or fingerprint and with that the purchase is concluded.</p>\n<p>After having bought the property, we go to the indicated place where the blue hammer icon is displayed, which in this opportunity indicates that new items are available, click on it, and select the recently acquired house again in the icon<strong><em>\"+\"</em></strong>&nbsp;to select the exact place where the house will be, then press the box<em>\"Build\"</em>and then the building process begins. At the end of the construction, enter your new house so you can start enjoying everything new that comes with it and start decorating it and inviting your friends to meet you.&nbsp;</p>"
+    },
+    {
+      "id": 10,
+      "name_category": "Jojoy Toca Boca",
+      "title": "How to Buy the Modern House of Toca Boca",
+      "image": "https://mytruko.com/wp-content/uploads/Co%CC%81mo-Comprar-la-Casa-Moderna-de-Toca-Boca-1024x576.jpeg",
+      "description": "If you are already a mod veteran,",
+      "link": "<h1 itemprop=\"headline\">How to Buy the Modern House of Toca Boca</h1>\n<nav aria-label=\"breadcrumbs\">\n<p>For players who make life in the world<strong>Toca lifeworld,</strong>the environment where you are located is of great importance. The options are endless where the houses of each of the characters can be located, and depending on the style and size they are signs of higher status in the game.</p>\n<p>From the basic ones when you start in the game, to the most modern ones, there are many styles and designs that the housing properties in<strong>Toca Boca</strong>. Depending on how you progress in the game, it is important to have more space where you can put all the objects you acquire. This is why the size of the house is relevant, because it offers benefits, in addition to the comfort that a modern house allows you.</p>\n<figure><img decoding=\"async\" width=\"1024\" height=\"576\" src=\"https://mytruko.com/wp-content/uploads/Co%CC%81mo-Comprar-la-Casa-Moderna-de-Toca-Boca-1024x576.jpeg\" alt=\"How to Buy the Modern House of Toca Boca\" title=\"How to Buy the Modern House of Toca Mouth 1\" data-src=\"https://mytruko.com/wp-content/uploads/Cómo-Comprar-la-Casa-Moderna-de-Toca-Boca-1024x576.jpeg\" data-srcset=\"https://mytruko.com/wp-content/uploads/Cómo-Comprar-la-Casa-Moderna-de-Toca-Boca-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-la-Casa-Moderna-de-Toca-Boca-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-la-Casa-Moderna-de-Toca-Boca-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-la-Casa-Moderna-de-Toca-Boca.jpeg 1280w\" data-sizes=\"(max-width: 1024px) 100vw, 1024px\" data-ll-status=\"loaded\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://mytruko.com/wp-content/uploads/Cómo-Comprar-la-Casa-Moderna-de-Toca-Boca-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-la-Casa-Moderna-de-Toca-Boca-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-la-Casa-Moderna-de-Toca-Boca-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-la-Casa-Moderna-de-Toca-Boca.jpeg 1280w\" />\n<figcaption>How to Buy the Modern House of Toca Boca</figcaption>\n</figure>\n<h2>Considerations to acquire a modern house of Toca Boca</h2>\n<p>The alternatives to acquire a property are very diverse, which represents a reason why the users of the community Toca Life are looking for suitable real estate options according to your need for space. Among the options that are presented are the buildings are:</p>\n<ul>\n<li>The Apartment Block</li>\n<li>The Bohemian House</li>\n<li>The Misty House</li>\n<li>The Modern House</li>\n</ul>\n<p>Each of them with defined styles, so their decorations are already pre-established; however, you can make adjustments to them.</p>\n<p>There are promotions from time to time, where the secret packs bring new locations that contain spaces at excellent prices, so you should consider looking first in other scenarios that allow you to expand in the game.</p>\n<h2>Steps to follow to buy the modern house of Toca Boca</h2>\n<p>To carry out the purchase of a modern house you only have to carry out the following steps:</p>\n<p>When you are advanced in the game, request the authorization of your parents. Then go to the green shopping cart, look for the pack that contains the modern house, click to buy following the indications that the \"store\" poses. Validate the purchase with the date of birth of the person who pays. And that's it, you already have a nice property in just a short procedure.</p>\n<p>After completing the previous process, all you have to do is place it in the place of your choice to be able to inhabit it and enjoy your modern home.</p>\n</nav>"
+    },
+    {
+      "id": 11,
+      "name_category": "Jojoy Toca Boca",
+      "title": "How to get the green diamond Toca Boca",
+      "image": "https://mytruko.com/wp-content/uploads/Como-Conseguir-el-Diamante-Verde-en-Toca-Boca-1024x576.jpeg",
+      "description": "If you are already a mod veteran,",
+      "link": "<h1 itemprop=\"headline\">How to get the green diamond Toca Boca</h1>\n<nav aria-label=\"breadcrumbs\">\n<p><strong>En Toca Life world</strong>the amount of precious stones are of great value to the users of the game. These beautiful gems are considered the greatest mysteries because they are hidden in both remote and nearby places. To collect the diamonds, each user must undertake a search mission, in which they must make a tour of the various locations of<strong>Toca Life world.</strong></p>\n<figure><img decoding=\"async\" width=\"1024\" height=\"576\" src=\"https://mytruko.com/wp-content/uploads/Como-Conseguir-el-Diamante-Verde-en-Toca-Boca-1024x576.jpeg\" alt=\"How to get the green diamond Toca Boca\" title=\"How to get the green diamond Toca Mouth 1\" data-src=\"https://mytruko.com/wp-content/uploads/Como-Conseguir-el-Diamante-Verde-en-Toca-Boca-1024x576.jpeg\" data-srcset=\"https://mytruko.com/wp-content/uploads/Como-Conseguir-el-Diamante-Verde-en-Toca-Boca-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Como-Conseguir-el-Diamante-Verde-en-Toca-Boca-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Como-Conseguir-el-Diamante-Verde-en-Toca-Boca-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Como-Conseguir-el-Diamante-Verde-en-Toca-Boca.jpeg 1280w\" data-sizes=\"(max-width: 1024px) 100vw, 1024px\" data-ll-status=\"loaded\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://mytruko.com/wp-content/uploads/Como-Conseguir-el-Diamante-Verde-en-Toca-Boca-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Como-Conseguir-el-Diamante-Verde-en-Toca-Boca-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Como-Conseguir-el-Diamante-Verde-en-Toca-Boca-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Como-Conseguir-el-Diamante-Verde-en-Toca-Boca.jpeg 1280w\" />\n<figcaption>How to get the green diamond Toca Boca</figcaption>\n</figure>\n<h2>The value and use of diamonds within the community Toca Boca</h2>\n<div><ins data-ad-client=\"ca-pub-2623043768734233\" data-ad-slot=\"6303642175\" data-ad-format=\"auto\" data-full-width-responsive=\"true\" data-adsbygoogle-status=\"done\" data-ad-status=\"unfilled\"> </ins></div>\n<div>\n<div>Diamonds in the community<strong>Toca Life</strong><strong>World</strong>, are characterized by their beauty, color and usefulness. They represent an exclusive benefit for the players, because it allows them not only to show them off to the other users of the platform, but they are also a type of currency that allows them to acquire kitchen items and accessories, to make aesthetic changes in Hair Style Salon. .</div>\n</div>\n<p>By gathering the complete collection of all these precious stones through the guides or content created by the followers of Toca Boca, the player will have access to free content and worlds, as well as buying exclusive items and accessories.</p>\n<h2>How to get the Green Diamond in Toca Boca</h2>\n<div><ins data-ad-client=\"ca-pub-2623043768734233\" data-ad-slot=\"6303642175\" data-ad-format=\"auto\" data-full-width-responsive=\"true\" data-adsbygoogle-status=\"done\" data-ad-status=\"unfilled\"> </ins></div>\n<p>The search for the precious gem can be a long but very fun one where players are drawn to the challenge of finding the gem to add to their collection. It's time to start the quest to discover where the Green Diamond is hidden in<strong>Toca Life</strong><strong>World.</strong></p>\n<p>As we already know, these highly valuable stones are scattered and kept clandestinely, so you must pay close attention and see the details and possible clues that are presented to you during the search. The most important clue has to do with the location of the Diamond.</p>\n<p>In the case of this spectacular bright green you should go to the Theater, and enter the locker room area and visualize the drawer, open it and there you will see that the Emerald Diamond is hidden, once you take it it is already part of your collection of precious jewels. Do not wait to undertake this mission in&nbsp;<strong>Toca Life</strong><strong>World.</strong></p>\n</nav>"
+    },
+    {
+      "id": 12,
+      "name_category": "Jojoy Toca Boca",
+      "title": "How to buy at Toca Life world",
+      "image": "https://mytruko.com/wp-content/uploads/Co%CC%81mo-Comprar-en-Toca-Life-World-1024x576.jpeg",
+      "description": "If you are already a mod veteran,",
+      "link": "<h1 itemprop=\"headline\">How to buy at Toca Life world</h1>\n<nav aria-label=\"breadcrumbs\">\n<p><strong>Toca Life world</strong>it's a universe where you can get a lot of great things that allow you to stand out among the other users of the game. The variety ranges from personal objects such as outfits to spectacular locations that provide a rewarding experience during your development in the world of Toca Mouth. In addition to this, there are innumerable benefits that you get when you make a purchase. It is for this reason that this time we will give you instructions on how to make a purchase in<strong>Toca Life world</strong>.</p>\n<p>In order to enjoy the benefits that are achieved when buying any object, you must have the authorization of your parents as the first important point. Once you have permission, the procedure is something you can do yourself. You are now ready to learn how to shop at<strong>Toca LifeWorld.</strong></p>\n<figure><img decoding=\"async\" width=\"1024\" height=\"576\" src=\"https://mytruko.com/wp-content/uploads/Co%CC%81mo-Comprar-en-Toca-Life-World-1024x576.jpeg\" alt=\"How to buy at Toca Life world\" title=\"How to buy at Toca life world 1\" data-src=\"https://mytruko.com/wp-content/uploads/Cómo-Comprar-en-Toca-Life-World-1024x576.jpeg\" data-srcset=\"https://mytruko.com/wp-content/uploads/Cómo-Comprar-en-Toca-Life-World-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-en-Toca-Life-World-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-en-Toca-Life-World-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-en-Toca-Life-World.jpeg 1280w\" data-sizes=\"(max-width: 1024px) 100vw, 1024px\" data-ll-status=\"loaded\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://mytruko.com/wp-content/uploads/Cómo-Comprar-en-Toca-Life-World-1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-en-Toca-Life-World-300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-en-Toca-Life-World-768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Cómo-Comprar-en-Toca-Life-World.jpeg 1280w\" />\n<figcaption>How to buy at Toca Life world</figcaption>\n</figure>\n<h2>Make your purchases in the universe Toca Life world</h2>\n<div><ins data-ad-client=\"ca-pub-2623043768734233\" data-ad-slot=\"6303642175\" data-ad-format=\"auto\" data-full-width-responsive=\"true\" data-adsbygoogle-status=\"done\" data-ad-status=\"unfilled\">\n<div title=\"Advertisement\" aria-label=\"Advertisement\" tabindex=\"0\"></div>\n</ins></div>\n<p>As is already known, carrying out a purchase process in<strong>Toca Boca</strong>it's pretty easy. By simply viewing and selecting the object or accessory you want, you can now access all the content available for purchase. This is where the procedure begins to acquire what you want to add to your belongings, just by following the instructions below:</p>\n<ul>\n<li>Enter the game<strong>Toca lifeworld,</strong>Go to the upper left corner where the green shopping cart is and proceed to click on it.</li>\n<li>The varied list of objects available for sale for game users is displayed.</li>\n<li>Choose and select the item of your choice and click on the \"buy\" tab.</li>\n<li>Enter the date of birth of the person who pays for the item and then your password or fingerprint to validate the purchase.</li>\n</ul>\n<p>With these simple steps, you complete the purchase operation so that you can enjoy the article you recently acquired, from the range of exclusive content that Boca Life offers its users.</p>\n</nav>"
+    },
+    {
+      "id": 13,
+      "name_category": "Jojoy Toca Boca",
+      "title": "Code of Toca Life world",
+      "image": "https://mytruko.com/wp-content/uploads/Co%CC%81digo-de-Toca-Life-World--1024x576.jpeg",
+      "description": "If you are already a mod veteran,",
+      "link": "<h1 itemprop=\"headline\">Code of Toca Life world</h1>\n<nav aria-label=\"breadcrumbs\">\n<p>En<strong>Toca Boca</strong>it is common that to acquire the accessories and properties that also come with multiple benefits for more hours of enjoyment within the game, it is necessary that you have money to be able to obtain said objects. Even so, there are alternatives when you do not have real money to cover these types of benefits. One of them is the use of a Code that you can use as a payment method in<strong>Toca Life world.</strong></p>\n<p>The faithful friend par excellence of the users is the Code of Toca Boca, because with it you can even buy a super house to include it in your world within the game without having to spend a single coin. The perfect option you need to add belongings and continue enjoying the benefits in<strong>Toca Life.</strong></p>\n<p>The various elements found in the universe<strong>Toca Life world</strong>, they can be yours, resorting to the choice of the use of code to achieve said things of your property. The fantastic of<em>&ldquo;Code 2000&rdquo; is that</em>It has the great advantage of being able to use it as many times as necessary.</p>\n<figure><img decoding=\"async\" width=\"1024\" height=\"576\" src=\"https://mytruko.com/wp-content/uploads/Co%CC%81digo-de-Toca-Life-World--1024x576.jpeg\" alt=\"Code of Toca Life world\" title=\"Code of Toca life world 1\" data-src=\"https://mytruko.com/wp-content/uploads/Código-de-Toca-Life-World--1024x576.jpeg\" data-srcset=\"https://mytruko.com/wp-content/uploads/Código-de-Toca-Life-World--1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Código-de-Toca-Life-World--300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Código-de-Toca-Life-World--768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Código-de-Toca-Life-World-.jpeg 1280w\" data-sizes=\"(max-width: 1024px) 100vw, 1024px\" data-ll-status=\"loaded\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://mytruko.com/wp-content/uploads/Código-de-Toca-Life-World--1024x576.jpeg 1024w, https://mytruko.com/wp-content/uploads/Código-de-Toca-Life-World--300x169.jpeg 300w, https://mytruko.com/wp-content/uploads/Código-de-Toca-Life-World--768x432.jpeg 768w, https://mytruko.com/wp-content/uploads/Código-de-Toca-Life-World-.jpeg 1280w\" />\n<figcaption>Code of Toca Life world</figcaption>\n</figure>\n<h2>How to use the code Toca LifeWorld?</h2>\n<div><ins data-ad-client=\"ca-pub-2623043768734233\" data-ad-slot=\"6303642175\" data-ad-format=\"auto\" data-full-width-responsive=\"true\" data-adsbygoogle-status=\"done\" data-ad-status=\"unfilled\">\n<div title=\"Advertisement\" aria-label=\"Advertisement\" tabindex=\"0\"></div>\n</ins></div>\n<p>The correct way to use the code Toca Boca, it is extremely easy and fast, in addition to being able to use it at any time you want. Just be attentive to these suggestions and follow the instructions below:</p>\n<p>Access to<strong>Toca Life world</strong>and select the green shopping cart located in the upper left corner.</p>\n<p>A list is displayed with the content of all the accessories and other objects that gives you multiple options from which you can choose to make the purchase.</p>\n<p>Proceed to search the list and select the item of your choice, then press the button<em>\"purchase\"</em>in the Toca Mouth.</p>\n<p>The purchase system requests the payment mechanism in which you are going to enter the<em>\"Code 2000\"</em>, and immediately your purchase is completed, without having to pay with real money, that is, totally free.&nbsp;</p>\n</nav>"
+    },
+    {
+      "id": 14,
+      "name_category": "Jojoy Toca Boca",
+      "title": "Why Download Jojoy APK",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. All mods are safe and ad-free ",
+      "link": "<p>Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. All mods are safe and ad-free. Download 100% working mods with Jojoy App from now on!! Also, Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. All mods are safe and ad-free. Download 100% working mods with Jojoy App from now on!!</p>.\n <p>Jojoy has already gained the love of millions of users in just one year of its establishment. How did Jojoy achieve such great success in just one year, and has been spontaneously recommended by many KOLs. Because Jojoy is an application store similar to Google Play, Google Play has strict requirements and restrictions on various apps, so many interesting apps are rejected by Google Play.</p> \n<p>Then Jojoy gathered a lot of Mod APP lover friends. With the concerted efforts of everyone, Jojoy has been successfully developed. Jojoy.io is a collection of Mod APPs that we think are valuable and recommend them to everyone.</p> \n<p>A large number of games and tool mod apps are collected in the Jojoy App. At present, more than 100,000 apps have been included, especially for gamers. The game mods in Jojoy have additional functions, because some game apps require payment from downloading to the purchase of props and gold coins, and now Jojoy solves this problem Troubled, Jojoy's game has unlimited gold coins, skins, game props, etc., which greatly improves the game experience. And Jojoy also provides an app review function, so you can interact with other players in jojoy, find your favorite games, and leave reviews for good games to recommend to more users.</p>\n<p>Players often encounter this situation, where many games are far below your expectations. You may even regret downloading these games. So what kind of games are really fun to play? jojoy finds high-quality games based on editorial and other players' ratings. And Jojoy recommends you the following popular games, including Jojoy stumble guys, Toca Life World, Among Us... and we offer free mod APK downloads for the latest versions of each game. All popular games are in Jojoy, come and experience it!</p>\n<p>With thousands of games released every day, how do you quickly find popular games or the latest mods? Jojoy will update the list of popular games every day, so you can easily find the latest games that are hot all over the world. The following are the latest 2022 popular game versions on Jojoy. Come and see which games everyone is experiencing!</p>"
+    },
+    {
+      "id": 15,
+      "name_category": "Jojoy Toca Boca",
+      "title": "What is Jojoy?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "Jojoy is an Android Mod App Store. You can get the latest popular 100% working games and tools mods for Android in Jojoy.",
+      "link": "Jojoy is an Android Mod App Store. You can get the latest popular 100% working games and tools mods for Android in Jojoy."
+    },
+    {
+      "id": 16,
+      "name_category": "Jojoy Toca Boca",
+      "title": "Jojoy Provides Multiple Categories",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. ",
+      "link": "Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. All mods are safe and ad-free. Download 100% working mods with Jojoy App from now on!! Also, Jojoy is a completely free APK downloader. You can get the latest popular games and tools for Android on this platform. All mods are safe and ad-free. Download 100% working mods with Jojoy App from now on!! \n In order to achieve the fastest update of Jojoy's mod apk, Jojoy's apk is manually uploaded by the users, so it can ensure that it is 100% available, and there is no need to worry about any advertisements and viruses."
+    },
+    {
+      "id": 17,
+      "name_category": "Jojoy Toca Boca",
+      "title": "Download Paid Apps for Free",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "Jojoy is currently the largest mod apk download center",
+      "link": "Jojoy is currently the largest mod apk download center, it can guarantee that you can download any mod apk you need for free, whether it is a game or a tool, it can be easily obtained in Jojoy.\n Many mod apk download centers can't meet users' download needs. The mod apk downloaded from their sites often contains a lot of advertisements and even viruses, which will seriously affect your mobile phone. To download the safest mod APK, come to Jojoy!"
+    },
+    {
+      "id": 18,
+      "name_category": "Jojoy Toca Boca",
+      "title": "Quick access to the latest version of the mod:",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "If you are already a mod veteran,",
+      "link": "If you are already a mod veteran, every time your mod app is updated, you can't find a place to download the latest mod, then jojoy can help you. Jojoy can update the latest mod at hourly level. So if you want to know if your mod is the latest version, or if you want to download the latest version of the mod, you can come to Jojoy, which has the most comprehensive and safe mod app. All mods on Jojoy are up to date in 2023 and work 100%."
+    },
+    {
+      "id": 19,
+      "name_category": "Jojoy Toca Boca",
+      "title": "High-speed download",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "At present, there are many mod download tools on the market",
+      "link": "At present, there are many mod download tools on the market, but because of their software bandwidth problems, the app download is very slow, and many apps are above 50M, so if you want to quickly download the latest mod app, Jojoy is the first choice. Many of Jojoy's initiators are all senior Android engineers. They have a better understanding of the structure of APP, so Jojoy can provide high-quality download services. Use Jojoy to experience the high-speed download of the app!"
+    },
+    {
+      "id": 20,
+      "name_category": "Jojoy Toca Boca",
+      "title": "Toca Life World Mod APK Download for Free - Jojoy",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv4y_ByTgshs7nY_gpXjp7f0l6UHNkMn_1rVsiZPbm5DmbusfcIlzYVaL6IxIJ6IKP0ibl_DD2JXcqgn8NZsWBJkc2dck6R6wyZ1t9m5cQi-nGAvlD6iYUOSP_Had3Y7JWTsprIC-MSx-nTld9Sn6tJr3cuXUEa_R1dFXN0HbD8vJssu90nRetE09t/s1600/Fitness%20GYM.png",
+      "description": "Toca Life World Mod Apk is a very interesting sandbox simulation game. In this world, you can explore at will, decorate your house, keep pets, go shopping, etc...",
+      "link": "<p><strong><em>Toca Life World Mod Apk</em></strong>&nbsp;is a very interesting sandbox simulation game. In this world, you can explore at will, decorate your house, keep pets, go shopping, etc &hellip; and even go to all kinds of crazy things you can think of.</p> \n<p>Toca Life World Mod Apk has a relatively large world view, and players can play freely in Toka town. This is a little relaxation in the game, so that they can live the life they want, build their own cottage, dress up their cottage as they like, and live happily here.</p> \n<p>Here, you can meet new friends, travel and play with your friends, and make the life in the game more colorful. Moreover, the game is constantly being optimized and moving in the direction you like. You can play around in the game and see the beautiful scenery of the world. Here are several games of Toka World, each of which has a different experience. Choose the one you like and download it!</p>\n<p>Toca life world torrent&nbsp;download Jojoy&nbsp;is a classic simulated business type game. Players manage their own Toka world, find ways to attract different people, and then use their own gold coins to upgrade their places and make their places more powerful. If you find it very interesting to explore the application of Toca Life, you can do whatever you want-you can hold your breath and look forward to being in TOCA LIFE: WORLD, where you can constantly advance by creating stories with your favorite characters in your favorite places.</p>\n<p>Want to take your pet to school? Do it boldly. Take sloths to the skating park? Don't hesitate. Take the doctor to the salon and dye her green hair? Sure. In&nbsp;toca life world&nbsp;Jojoy download,&nbsp;you are the biggest player, and you can write stories&nbsp;at will.</p> \n<p>Toca life world: build stories mod apk torrent&nbsp;Jojoy apk downloadis a fun simulated business game. The overall picture is quite fresh, and cartoon pictures are adopted, which continues the classic simulated business game. This game has a huge game map, and players can freely explore the world, experience unusual life journeys, and have many career planning choices, and feel different stories. What are you waiting for if you are interested?</p>\n<p>In toca life world special version mod apk torrent&nbsp;Jojoy mod apk, players will experience a brand-new game world. In the game, players need to incarnate different characters, feel different ways of playing and having fun, and there are a variety of viewing modes waiting for you to challenge. Please download toca life world mod&nbsp;Jojoy 2022 lastest mod apk&nbsp;with your favorite friends! With a brand-new simulation game, players will be able to enjoy a variety of different characters in the game. You can create stories with your favorite characters in your favorite places and keep advancing. In Toka world, you are the biggest player and create your own legendary stories!</p>\n<h2><strong>GAME FEATURES</strong></h2>\n<p>The exquisite cartoon-style game screen gives you an exquisite experience. The game has a perfect system mode of cultivating achievement, which can satisfy your business desire. There are a lot of different simulated level challenges in the game, waiting for you to unlock and experience more. Players can freely create their own characters and enjoy rich corner colors and fashionable clothes.</p>\n<h2><strong>EXPLORE DIFFERENT PLACES</strong></h2>\n<p>Players can shuttle between different places to do interesting things, build apartments and taste delicious food. There are more than 300 characters for you to choose from in toca life world mod apk&nbsp;Jojoy download.</p>\n<p>You can meet friends all over the world, play together, do all kinds of crazy things, explore different places, have fun and interact with each other, and so on. You can visit your neighbor and complete his task to get commission, and all kinds of shops in the block can be your entertainment places. With the money you earn, you can buy different ornaments in the store. Every day here, there are different happy events waiting for you to open. Only by completing the task can you accumulate the money you need to buy various items and create wealth with your labor.</p>\n<h2><strong>DO WHATEVER</strong><strong>YOU</strong><strong>&nbsp;WANT HERE</strong></h2>\n<p>Players can explore deeply in the Toka world and do whatever they want here. No one can restrict you. The gameplay&nbsp;of toca life world rap mod Jojoy download&nbsp;is very open, and it pays great attention to the interaction between players. Although it is a virtual world, this world is a perfect dream world in everyone's mind.</p>\n<h2><strong>COLORFUL PROPS BEAUTIFY YOUR WORLD</strong></h2>\n<p>Build your house so that you can have another warm place in this place and invite your friends to have a party together. Buy all kinds of beautiful clothes for your character, and make this character a fashion leader with a very unique personality.</p>\n<p>Using props can make your game experience more comfortable, and the effects obtained by different props are different. You can also feel the beauty of the world by experiencing the plot of toca life world hack&nbsp;Jojoy download, so that your mood can become better. You can have a walk-and-go trip in the game, and let the unruly wind accompany your world exploration journey.</p>"
+    }
+  ]
+}
